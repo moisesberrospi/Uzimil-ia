@@ -1,0 +1,74 @@
+/* Burbujas tipo ventana emergente para el chat */
+.popup-bubble {
+  max-width: 50%;
+  min-width: 120px;
+  padding: 22px 28px 32px 28px;
+  border-radius: 22px 22px 22px 10px;
+  background: #fff;
+  box-shadow: 0 6px 24px 0 rgba(0,0,0,0.13), 0 2px 8px 0 rgba(0,0,0,0.10);
+  border: 1.5px solid #e0e0e0;
+  position: relative;
+  font-size: 1.08rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  transition: box-shadow 0.2s;
+}
+.popup-bubble.user {
+  background: #e6f0ff;
+  border-radius: 22px 22px 10px 22px;
+  border: 1.5px solid #b3d1ff;
+  color: #1a1a2e;
+  align-self: flex-end;
+}
+.popup-bubble.bot {
+  background: #fff;
+  border-radius: 22px 22px 22px 10px;
+  border: 1.5px solid #e0e0e0;
+  color: #23242a;
+  align-self: flex-start;
+}
+.message-time {
+  font-size: 0.78rem;
+  color: #888;
+  position: absolute;
+  right: 22px;
+  bottom: 10px;
+  letter-spacing: 0.02em;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Paleta mejorada para legibilidad */
+:root {
+  --background: #f5f3ff; /* lavanda muy claro */
+  --foreground: #1a1a2e; /* texto oscuro */
+  --primary-dark-purple: #4b006e; /* morado oscuro */
+  --primary-light-purple: #a084ca; /* morado claro */
+  --primary-white: #fff;
+}
+
+
+/*
+El bloque @theme inline no es válido en CSS estándar ni en Tailwind, por eso se elimina.
+Las variables ya están definidas en :root y se pueden usar directamente en Tailwind con bg-[var(--...)]
+*/
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #1a1a2e;
+    --foreground: #f5f3ff;
+    --primary-dark-purple: #a084ca;
+    --primary-light-purple: #4b006e;
+    --primary-white: #fff;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+}
+

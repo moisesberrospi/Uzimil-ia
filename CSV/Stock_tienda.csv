@@ -1,0 +1,101 @@
+Producto,marca,categoria,preciounitario,stock_disponible
+Brother DS-640,Brother,Scanner,110.0,76
+NVIDIA GeForce GTX 1660 Super,NVIDIA,Componente,250.0,45
+Samsung Xpress M2020W,Samsung,Impresora,150.0,65
+Samsung 980 PRO SSD 1TB,Samsung,Componentes,180.0,76
+Dell XPS 13,Dell,Laptop,1050.0,86
+Lenovo ThinkVision T24i-10,Lenovo,Monitor,230.0,21
+AMD Radeon RX 6800,AMD,Componente,700.0,12
+Huawei MatePad T10,Huawei,Tablet,250.0,3
+Logitech MX Master 3,Logitech,Accesorio,100.0,43
+Cisco RV340,Cisco,Red,170.0,53
+Crucial MX500 SSD 1TB,Crucial,Componentes,110.0,23
+Lenovo Preferred Pro,Lenovo,Accesorio,50.0,54
+Logitech G502,Logitech,Accesorio,90.0,86
+ASUS VivoBook 15,ASUS,Laptop,800.0,71
+Linksys EA7500,Linksys,Red,100.0,100
+Epson EcoTank ET-4760,Epson,Impresora,350.0,23
+Lenovo Tab M10,Lenovo,Tablet,300.0,43
+Brother HL-L2350DW,Brother,Impresora,200.0,3
+Corsair HS60,Corsair,Accesorio,90.0,434
+Corsair K95 RGB,Corsair,Accesorio,150.0,3
+Logitech Webcam C920,Logitech,Accesorio,80.0,44
+Fire HD 10,Amazon,Tablet,150.0,31
+MSI Cubi 5,MSI,Desktop,620.0,50
+Microsoft LifeCam HD-3000,Microsoft,Accesorio,70.0,23
+NVIDIA GeForce RTX 3080,NVIDIA,Componente,800.0,43
+Dell UltraSharp Webcam,Dell,Accesorio,85.0,23
+HP Chromebook x2,HP,Tablet,400.0,53
+Samsung Odyssey G7,Samsung,Monitor,450.0,12
+HP 24mh,HP,Monitor,280.0,34
+Lenovo ThinkCentre M720,Lenovo,Desktop,600.0,45
+Asus ZenPad 10,ASUS,Tablet,350.0,53
+BenQ GW2480,BenQ,Monitor,210.0,23
+Dell Inspiron Desktop,Dell,Desktop,500.0,1
+MSI Modern 14,MSI,Laptop,950.0,82
+AMD Radeon RX 6700 XT,AMD,Componente,480.0,1
+ASUS ExpertCenter,ASUS,Desktop,630.0,2
+Acer Aspire 5,Acer,Laptop,700.0,60.0
+Logitech G Pro X,Logitech,Accesorio,120.0,4
+Microsoft Sculpt Ergonomic,Microsoft,Accesorio,130.0,5
+Dell OptiPlex 7070,Dell,Desktop,650.0,11
+Dell Venue 8 Pro,Dell,Tablet,200.0,21
+Dell Inspiron 15,Dell,Laptop,850.0,51
+Epson Perfection V39,Epson,Scanner,90.0,12
+HP Spectre x360,HP,Laptop,1100.0,74
+SteelSeries Arctis 7,SteelSeries,Accesorio,150.0,23
+Google Pixel Slate,Google,Tablet,600.0,42
+HP Wireless Keyboard,HP,Accesorio,40.0,98
+MacBook Air,Apple,Laptop,1200.0,20.0
+Canon Pixma G6020,Canon,Impresora,280.0,95
+HyperX Cloud II,HyperX,Accesorio,100.0,4
+Lenovo ThinkPad E15,Lenovo,Laptop,900.0,14.0
+iPad Pro 11,Apple,Tablet,800.0,2
+Acer R240HY,Acer,Monitor,200.0,2
+Acer Veriton X,Acer,Desktop,550.0,12
+Dell P2419H,Dell,Monitor,250.0,1
+Intel Optane Memory 32GB,Intel,Componentes,130.0,33
+Lenovo IdeaCentre 3,Lenovo,Desktop,560.0,54
+NVIDIA GeForce RTX 3070,NVIDIA,Componente,600.0,65
+ASUS ProArt PA248Q,ASUS,Monitor,350.0,76
+Ricoh SP C250DN,Ricoh,Impresora,180.0,34
+Samsung 970 EVO SSD 1TB,Samsung,Componentes,150.0,57
+Samsung Galaxy Tab S7,Samsung,Tablet,650.0,7
+Canon CanoScan LiDE,Canon,Scanner,100.0,13
+Corsair Scimitar,Corsair,Accesorio,80.0,5
+Corsair Vengeance LPX 16GB,Corsair,Componentes,75.0,23
+HP ScanJet Pro,HP,Scanner,120.0,2
+Lenovo Yoga 7i,Lenovo,Laptop,980.0,74.0
+NVIDIA GeForce RTX 3060,NVIDIA,Componente,400.0,4
+NVIDIA Quadro P2200,NVIDIA,Componente,450.0,6
+Surface Go 2,Microsoft,Tablet,550.0,7
+WD Blue 1TB HDD,Western Digital,Componentes,60.0,9
+Dell KM117 Wireless,Dell,Accesorio,45.0,8
+Dell UltraSharp 24,Dell,Monitor,300.0,6
+WD Black SN750 1TB,Western Digital,Componentes,200.0,5
+AMD Radeon RX 5600 XT,AMD,Componente,300.0,14
+Asus ROG Strix Scope,Asus,Accesorio,110.0,15
+HP VH240a,HP,Monitor,190.0,13
+Seagate Barracuda 2TB HDD,Seagate,Componentes,80.0,12
+D-Link COVR-1102,D-Link,Red,190.0,2
+Linksys Velop,Linksys,Red,230.0,3
+AMD Radeon Pro W5700,AMD,Componente,650.0,4
+TP-Link Archer C7,TP-Link,Red,60.0,1
+AMD Radeon RX 6900 XT,AMD,Componente,1000.0,1
+HP LaserJet Pro MFP,HP,Impresora,300.0,3
+Netgear Nighthawk,Netgear,Red,120.0,5
+HP Omen Gaming Mouse,HP,Accesorio,75.0,8
+HP ProDesk 400,HP,Desktop,540.0,96
+iMac 21.5 pulgadas,Apple,Desktop,1100.0,3
+D-Link DIR-850L,D-Link,Red,80.0,2
+HP EliteDesk 800,HP,Desktop,680.0,1
+Seagate FireCuda 510 SSD 500GB,Seagate,Componentes,170.0,2
+TP-Link Deco M5,TP-Link,Red,200.0,3
+Razer BlackWidow,Razer,Accesorio,120.0,4
+Razer DeathAdder V2,Razer,Accesorio,70.0,2
+Razer Kraken Tournament,Razer,Accesorio,130.0,4
+Cisco Meraki Go,Cisco,Red,220.0,5
+LG 27UL850,LG,Monitor,400.0,3
+HP Pavilion 14,HP,Laptop,750.0,92
+Kingston A2000 SSD 500GB,Kingston,Componentes,90.0,1
+Netgear Orbi,Netgear,Red,250.0,3

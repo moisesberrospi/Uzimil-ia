@@ -1,0 +1,1001 @@
+venta_id,fecha,marca,categoria,producto,preciounitario,precioventafinalunitario,cantidadvendida,totalventa
+1,2024-07-22 17:49:02,HP,Impresora,HP LaserJet Pro MFP,$300.00,$341.00,1,$341.00
+2,2025-02-11 17:49:02,Lenovo,Desktop,Lenovo IdeaCentre 3,$560.00,$619.00,4,"$2,476.00"
+3,2024-10-17 17:49:02,Cisco,Red,Cisco RV340,$170.00,$221.00,4,$884.00
+4,2024-12-29 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$656.00,2,"$1,312.00"
+5,2025-04-21 17:49:02,HyperX,Accesorio,HyperX Cloud II,$100.00,$154.00,4,$616.00
+6,2024-12-25 17:49:02,HP,Desktop,HP EliteDesk 800,$680.00,$729.00,1,$729.00
+7,2025-04-26 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$176.00,1,$176.00
+8,2024-11-07 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$417.00,5,"$2,085.00"
+9,2024-12-06 17:49:02,Linksys,Red,Linksys Velop,$230.00,$298.00,3,$894.00
+10,2024-10-20 17:49:02,Cisco,Red,Cisco RV340,$170.00,$233.00,4,$932.00
+11,2024-09-15 17:49:02,Razer,Accesorio,Razer DeathAdder V2,$70.00,$121.00,1,$121.00
+12,2025-02-15 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$255.00,3,$765.00
+13,2024-08-07 17:49:02,Acer,Desktop,Acer Veriton X,$550.00,$597.00,1,$597.00
+14,2024-10-31 17:49:02,SteelSeries,Accesorio,SteelSeries Arctis 7,$150.00,$192.00,3,$576.00
+15,2025-02-22 17:49:02,LG,Monitor,LG 27UL850,$400.00,$445.00,1,$445.00
+16,2024-08-23 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$262.00,5,"$1,310.00"
+17,2024-10-08 17:49:02,Acer,Monitor,Acer R240HY,$200.00,$258.00,1,$258.00
+18,2024-08-19 17:49:02,Apple,Tablet,iPad Pro 11,$800.00,$855.00,2,"$1,710.00"
+19,2025-01-12 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$850.00,1,$850.00
+20,2024-09-17 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$198.00,2,$396.00
+21,2024-10-10 17:49:02,Razer,Accesorio,Razer Kraken Tournament,$130.00,$198.00,1,$198.00
+22,2025-05-27 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$691.00,1,$691.00
+23,2024-12-14 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$285.00,3,$855.00
+24,2025-01-13 17:49:02,D-Link,Red,D-Link COVR-1102,$190.00,$262.00,5,"$1,310.00"
+25,2025-05-25 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$308.00,1,$308.00
+26,2024-11-06 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$780.00,4,"$3,120.00"
+27,2024-10-03 17:49:02,Netgear,Red,Netgear Nighthawk,$120.00,$196.00,5,$980.00
+28,2024-09-21 17:49:02,ASUS,Tablet,Asus ZenPad 10,$350.00,$427.00,5,"$2,135.00"
+29,2024-11-22 17:49:02,Lenovo,Laptop,Lenovo ThinkPad E15,$900.00,$944.00,5,"$4,720.00"
+30,2024-12-18 17:49:02,Lenovo,Desktop,Lenovo IdeaCentre 3,$560.00,$632.00,4,"$2,528.00"
+31,2025-03-29 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$447.00,1,$447.00
+32,2024-07-10 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$102.00,2,$204.00
+33,2025-06-04 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$134.00,1,$134.00
+34,2024-09-04 17:49:02,Lenovo,Laptop,Lenovo Yoga 7i,$980.00,"$1,040.00",3,"$3,120.00"
+35,2025-05-09 17:49:02,Google,Tablet,Google Pixel Slate,$600.00,$647.00,4,"$2,588.00"
+36,2024-12-16 17:49:02,Apple,Desktop,iMac 21.5 pulgadas,"$1,100.00","$1,148.00",3,"$3,444.00"
+37,2025-03-13 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3060,$400.00,$464.00,4,"$1,856.00"
+38,2025-06-16 17:49:02,Canon,Impresora,Canon Pixma G6020,$280.00,$330.00,4,"$1,320.00"
+39,2025-01-08 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$182.00,4,$728.00
+40,2025-04-27 17:49:02,Dell,Tablet,Dell Venue 8 Pro,$200.00,$249.00,2,$498.00
+41,2024-12-09 17:49:02,AMD,Componente,AMD Radeon Pro W5700,$650.00,$720.00,1,$720.00
+42,2024-09-12 17:49:02,Dell,Tablet,Dell Venue 8 Pro,$200.00,$274.00,3,$822.00
+43,2025-01-06 17:49:02,Corsair,Accesorio,Corsair Scimitar,$80.00,$138.00,2,$276.00
+44,2024-11-07 17:49:02,ASUS,Desktop,ASUS ExpertCenter,$630.00,$709.00,3,"$2,127.00"
+45,2024-11-12 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$261.00,2,$522.00
+46,2024-12-08 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$162.00,2,$324.00
+47,2025-03-06 17:49:02,HP,Impresora,HP LaserJet Pro MFP,$300.00,$368.00,4,"$1,472.00"
+48,2024-11-10 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$675.00,2,"$1,350.00"
+49,2024-12-22 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$475.00,2,$950.00
+50,2024-08-08 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$253.00,5,"$1,265.00"
+51,2025-06-12 17:49:02,Lenovo,Laptop,Lenovo Yoga 7i,$980.00,"$1,021.00",2,"$2,042.00"
+52,2024-09-14 17:49:02,SteelSeries,Accesorio,SteelSeries Arctis 7,$150.00,$230.00,2,$460.00
+53,2024-11-24 17:49:02,Intel,Componentes,Intel Optane Memory 32GB,$130.00,$210.00,2,$420.00
+54,2024-12-10 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$142.00,2,$284.00
+55,2024-12-25 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$153.00,3,$459.00
+56,2025-06-13 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$160.00,2,$320.00
+57,2024-07-29 17:49:02,Canon,Scanner,Canon CanoScan LiDE,$100.00,$151.00,2,$302.00
+58,2024-11-09 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$403.00,4,"$1,612.00"
+59,2024-07-25 17:49:02,AMD,Componente,AMD Radeon RX 6900 XT,"$1,000.00","$1,064.00",1,"$1,064.00"
+60,2024-10-23 17:49:02,ASUS,Desktop,ASUS ExpertCenter,$630.00,$691.00,4,"$2,764.00"
+61,2025-02-13 17:49:02,ASUS,Monitor,ASUS ProArt PA248Q,$350.00,$416.00,4,"$1,664.00"
+62,2025-02-13 17:49:02,Razer,Accesorio,Razer Kraken Tournament,$130.00,$181.00,1,$181.00
+63,2024-07-25 17:49:02,Apple,Laptop,MacBook Air,"$1,200.00","$1,265.00",1,"$1,265.00"
+64,2024-12-09 17:49:02,Acer,Monitor,Acer R240HY,$200.00,$274.00,1,$274.00
+65,2025-04-21 17:49:02,HP,Monitor,HP 24mh,$280.00,$323.00,3,$969.00
+66,2025-03-11 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,122.00",3,"$3,366.00"
+67,2024-10-14 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$250.00,1,$250.00
+68,2024-09-01 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3060,$400.00,$475.00,2,$950.00
+69,2025-01-15 17:49:02,Microsoft,Accesorio,Microsoft LifeCam HD-3000,$70.00,$113.00,1,$113.00
+70,2025-04-08 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$123.00,2,$246.00
+71,2024-09-08 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$499.00,2,$998.00
+72,2025-01-26 17:49:02,SteelSeries,Accesorio,SteelSeries Arctis 7,$150.00,$227.00,5,"$1,135.00"
+73,2025-06-12 17:49:02,Netgear,Red,Netgear Nighthawk,$120.00,$161.00,1,$161.00
+74,2025-05-04 17:49:02,AMD,Componente,AMD Radeon RX 6700 XT,$480.00,$539.00,5,"$2,695.00"
+75,2025-06-21 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$264.00,3,$792.00
+76,2025-05-30 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$257.00,3,$771.00
+77,2025-06-12 17:49:02,Acer,Laptop,Acer Aspire 5,$700.00,$747.00,4,"$2,988.00"
+78,2025-06-02 17:49:02,HP,Desktop,HP ProDesk 400,$540.00,$584.00,4,"$2,336.00"
+79,2025-03-22 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$424.00,1,$424.00
+80,2025-05-01 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$175.00,2,$350.00
+81,2025-03-04 17:49:02,Seagate,Componentes,Seagate Barracuda 2TB HDD,$80.00,$156.00,1,$156.00
+82,2025-04-15 17:49:02,AMD,Componente,AMD Radeon RX 6900 XT,"$1,000.00","$1,069.00",3,"$3,207.00"
+83,2025-03-07 17:49:02,MSI,Laptop,MSI Modern 14,$950.00,$995.00,1,$995.00
+84,2024-09-03 17:49:02,Samsung,Tablet,Samsung Galaxy Tab S7,$650.00,$700.00,3,"$2,100.00"
+85,2025-05-31 17:49:02,HyperX,Accesorio,HyperX Cloud II,$100.00,$148.00,3,$444.00
+86,2025-06-19 17:49:02,Lenovo,Laptop,Lenovo Yoga 7i,$980.00,"$1,022.00",2,"$2,044.00"
+87,2024-08-09 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$641.00,4,"$2,564.00"
+88,2025-04-04 17:49:02,HP,Laptop,HP Pavilion 14,$750.00,$806.00,2,"$1,612.00"
+89,2025-04-21 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$261.00,4,"$1,044.00"
+90,2025-05-29 17:49:02,Acer,Desktop,Acer Veriton X,$550.00,$598.00,1,$598.00
+91,2024-08-09 17:49:02,Corsair,Accesorio,Corsair K95 RGB,$150.00,$215.00,4,$860.00
+92,2025-04-27 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$296.00,1,$296.00
+93,2024-10-24 17:49:02,ASUS,Desktop,ASUS ExpertCenter,$630.00,$697.00,2,"$1,394.00"
+94,2025-03-12 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$153.00,2,$306.00
+95,2025-03-16 17:49:02,AMD,Componente,AMD Radeon RX 6700 XT,$480.00,$550.00,2,"$1,100.00"
+96,2024-10-13 17:49:02,Dell,Accesorio,Dell KM117 Wireless,$45.00,$122.00,1,$122.00
+97,2025-06-17 17:49:02,HP,Laptop,HP Pavilion 14,$750.00,$814.00,4,"$3,256.00"
+98,2025-06-16 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3060,$400.00,$441.00,1,$441.00
+99,2024-09-04 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$285.00,2,$570.00
+100,2025-03-14 17:49:02,HP,Monitor,HP 24mh,$280.00,$357.00,5,"$1,785.00"
+101,2025-07-06 17:49:02,HyperX,Accesorio,HyperX Cloud II,$100.00,$147.00,2,$294.00
+102,2024-10-03 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$676.00,2,"$1,352.00"
+103,2024-11-03 17:49:02,Dell,Desktop,Dell Inspiron Desktop,$500.00,$580.00,4,"$2,320.00"
+104,2024-12-22 17:49:02,Canon,Scanner,Canon CanoScan LiDE,$100.00,$157.00,3,$471.00
+105,2024-11-19 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$698.00,2,"$1,396.00"
+106,2025-01-01 17:49:02,Cisco,Red,Cisco RV340,$170.00,$229.00,5,"$1,145.00"
+107,2024-08-29 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$492.00,2,$984.00
+108,2025-05-22 17:49:02,TP-Link,Red,TP-Link Deco M5,$200.00,$262.00,3,$786.00
+109,2024-08-25 17:49:02,Linksys,Red,Linksys Velop,$230.00,$288.00,2,$576.00
+110,2025-04-09 17:49:02,Epson,Scanner,Epson Perfection V39,$90.00,$146.00,4,$584.00
+111,2024-08-06 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$477.00,3,"$1,431.00"
+112,2024-12-05 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$199.00,2,$398.00
+113,2024-09-07 17:49:02,HP,Desktop,HP EliteDesk 800,$680.00,$740.00,2,"$1,480.00"
+114,2025-06-03 17:49:02,HP,Accesorio,HP Omen Gaming Mouse,$75.00,$127.00,5,$635.00
+115,2024-12-20 17:49:02,Google,Tablet,Google Pixel Slate,$600.00,$669.00,1,$669.00
+116,2024-10-13 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$244.00,2,$488.00
+117,2025-01-06 17:49:02,Epson,Scanner,Epson Perfection V39,$90.00,$152.00,2,$304.00
+118,2025-02-27 17:49:02,D-Link,Red,D-Link DIR-850L,$80.00,$156.00,2,$312.00
+119,2025-02-19 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,114.00",4,"$4,456.00"
+120,2024-08-29 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$169.00,3,$507.00
+121,2025-03-20 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$145.00,5,$725.00
+122,2025-05-27 17:49:02,AMD,Componente,AMD Radeon RX 6900 XT,"$1,000.00","$1,062.00",1,"$1,062.00"
+123,2024-12-14 17:49:02,HP,Laptop,HP Spectre x360,"$1,100.00","$1,179.00",3,"$3,537.00"
+124,2025-05-22 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$170.00,1,$170.00
+125,2024-09-03 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$642.00,3,"$1,926.00"
+126,2025-05-14 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$163.00,3,$489.00
+127,2025-01-07 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$723.00,2,"$1,446.00"
+128,2024-08-19 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$241.00,4,$964.00
+129,2024-07-22 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$840.00,5,"$4,200.00"
+130,2024-07-17 17:49:02,Apple,Laptop,MacBook Air,"$1,200.00","$1,254.00",3,"$3,762.00"
+131,2024-09-01 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$178.00,3,$534.00
+132,2024-08-09 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$140.00,3,$420.00
+133,2025-02-22 17:49:02,Microsoft,Tablet,Surface Go 2,$550.00,$611.00,5,"$3,055.00"
+134,2024-08-18 17:49:02,Cisco,Red,Cisco RV340,$170.00,$229.00,2,$458.00
+135,2025-01-07 17:49:02,Canon,Impresora,Canon Pixma G6020,$280.00,$345.00,1,$345.00
+136,2024-07-25 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$162.00,4,$648.00
+137,2025-05-21 17:49:02,HP,Desktop,HP EliteDesk 800,$680.00,$753.00,1,$753.00
+138,2025-05-06 17:49:02,TP-Link,Red,TP-Link Deco M5,$200.00,$278.00,4,"$1,112.00"
+139,2025-06-25 17:49:02,Microsoft,Accesorio,Microsoft LifeCam HD-3000,$70.00,$136.00,5,$680.00
+140,2024-09-22 17:49:02,Acer,Laptop,Acer Aspire 5,$700.00,$766.00,4,"$3,064.00"
+141,2025-06-10 17:49:02,Seagate,Componentes,Seagate Barracuda 2TB HDD,$80.00,$133.00,5,$665.00
+142,2024-12-31 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$163.00,2,$326.00
+143,2025-05-07 17:49:02,HP,Laptop,HP Spectre x360,"$1,100.00","$1,145.00",4,"$4,580.00"
+144,2025-03-31 17:49:02,Canon,Scanner,Canon CanoScan LiDE,$100.00,$141.00,1,$141.00
+145,2025-03-20 17:49:02,Lenovo,Desktop,Lenovo IdeaCentre 3,$560.00,$619.00,5,"$3,095.00"
+146,2024-12-01 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$142.00,4,$568.00
+147,2024-11-04 17:49:02,HP,Scanner,HP ScanJet Pro,$120.00,$184.00,1,$184.00
+148,2025-04-25 17:49:02,Dell,Monitor,Dell UltraSharp 24,$300.00,$366.00,2,$732.00
+149,2025-06-14 17:49:02,HP,Monitor,HP VH240a,$190.00,$247.00,2,$494.00
+150,2024-12-01 17:49:02,SteelSeries,Accesorio,SteelSeries Arctis 7,$150.00,$225.00,3,$675.00
+151,2025-01-14 17:49:02,Microsoft,Tablet,Surface Go 2,$550.00,$629.00,5,"$3,145.00"
+152,2024-09-05 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$667.00,1,$667.00
+153,2024-09-04 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$417.00,3,"$1,251.00"
+154,2024-07-22 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$526.00,5,"$2,630.00"
+155,2024-09-04 17:49:02,D-Link,Red,D-Link DIR-850L,$80.00,$124.00,1,$124.00
+156,2024-11-05 17:49:02,Samsung,Tablet,Samsung Galaxy Tab S7,$650.00,$700.00,4,"$2,800.00"
+157,2024-07-16 17:49:02,Asus,Accesorio,Asus ROG Strix Scope,$110.00,$152.00,3,$456.00
+158,2025-05-21 17:49:02,ASUS,Monitor,ASUS ProArt PA248Q,$350.00,$398.00,1,$398.00
+159,2024-08-04 17:49:02,NVIDIA,Componente,NVIDIA Quadro P2200,$450.00,$526.00,5,"$2,630.00"
+160,2024-07-17 17:49:02,Intel,Componentes,Intel Optane Memory 32GB,$130.00,$185.00,4,$740.00
+161,2025-04-27 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$167.00,4,$668.00
+162,2024-10-13 17:49:02,ASUS,Monitor,ASUS ProArt PA248Q,$350.00,$399.00,3,"$1,197.00"
+163,2025-05-14 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$167.00,2,$334.00
+164,2025-05-20 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$233.00,4,$932.00
+165,2025-03-27 17:49:02,HyperX,Accesorio,HyperX Cloud II,$100.00,$173.00,4,$692.00
+166,2025-05-17 17:49:02,ASUS,Desktop,ASUS ExpertCenter,$630.00,$688.00,5,"$3,440.00"
+167,2024-10-08 17:49:02,Dell,Tablet,Dell Venue 8 Pro,$200.00,$272.00,1,$272.00
+168,2025-06-07 17:49:02,Apple,Laptop,MacBook Air,"$1,200.00","$1,277.00",2,"$2,554.00"
+169,2024-10-17 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$155.00,5,$775.00
+170,2024-12-25 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$165.00,3,$495.00
+171,2024-10-03 17:49:02,Lenovo,Laptop,Lenovo ThinkPad E15,$900.00,$940.00,4,"$3,760.00"
+172,2024-08-15 17:49:02,Canon,Scanner,Canon CanoScan LiDE,$100.00,$168.00,5,$840.00
+173,2024-09-16 17:49:02,Apple,Laptop,MacBook Air,"$1,200.00","$1,248.00",2,"$2,496.00"
+174,2025-07-05 17:49:02,Dell,Laptop,Dell Inspiron 15,$850.00,$922.00,5,"$4,610.00"
+175,2024-07-09 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$180.00,3,$540.00
+176,2024-12-16 17:49:02,Dell,Desktop,Dell Inspiron Desktop,$500.00,$547.00,5,"$2,735.00"
+177,2024-11-02 17:49:02,Acer,Monitor,Acer R240HY,$200.00,$244.00,1,$244.00
+178,2025-01-26 17:49:02,ASUS,Desktop,ASUS ExpertCenter,$630.00,$696.00,1,$696.00
+179,2024-09-18 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$182.00,5,$910.00
+180,2024-09-07 17:49:02,Netgear,Red,Netgear Nighthawk,$120.00,$183.00,2,$366.00
+181,2025-01-30 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$140.00,2,$280.00
+182,2024-08-17 17:49:02,Samsung,Tablet,Samsung Galaxy Tab S7,$650.00,$730.00,4,"$2,920.00"
+183,2024-08-20 17:49:02,HP,Impresora,HP LaserJet Pro MFP,$300.00,$350.00,5,"$1,750.00"
+184,2025-03-06 17:49:02,Dell,Laptop,Dell Inspiron 15,$850.00,$927.00,5,"$4,635.00"
+185,2024-07-27 17:49:02,HP,Accesorio,HP Omen Gaming Mouse,$75.00,$131.00,2,$262.00
+186,2024-10-14 17:49:02,NVIDIA,Componente,NVIDIA Quadro P2200,$450.00,$494.00,3,"$1,482.00"
+187,2025-02-24 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$650.00,5,"$3,250.00"
+188,2025-06-03 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$216.00,5,"$1,080.00"
+189,2025-06-25 17:49:02,Western Digital,Componentes,WD Blue 1TB HDD,$60.00,$103.00,2,$206.00
+190,2025-05-25 17:49:02,Cisco,Red,Cisco RV340,$170.00,$230.00,2,$460.00
+191,2024-12-08 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$312.00,1,$312.00
+192,2024-09-06 17:49:02,ASUS,Tablet,Asus ZenPad 10,$350.00,$397.00,1,$397.00
+193,2024-12-12 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$160.00,5,$800.00
+194,2025-01-25 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$164.00,3,$492.00
+195,2024-11-23 17:49:02,Samsung,Componentes,Samsung 970 EVO SSD 1TB,$150.00,$191.00,2,$382.00
+196,2025-02-08 17:49:02,Lenovo,Desktop,Lenovo IdeaCentre 3,$560.00,$627.00,1,$627.00
+197,2024-07-30 17:49:02,HP,Desktop,HP ProDesk 400,$540.00,$610.00,2,"$1,220.00"
+198,2025-01-20 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$848.00,4,"$3,392.00"
+199,2025-03-09 17:49:02,Google,Tablet,Google Pixel Slate,$600.00,$677.00,4,"$2,708.00"
+200,2025-06-02 17:49:02,Apple,Desktop,iMac 21.5 pulgadas,"$1,100.00","$1,142.00",1,"$1,142.00"
+201,2025-06-23 17:49:02,Seagate,Componentes,Seagate Barracuda 2TB HDD,$80.00,$160.00,2,$320.00
+202,2024-10-21 17:49:02,Acer,Desktop,Acer Veriton X,$550.00,$627.00,4,"$2,508.00"
+203,2024-11-07 17:49:02,Seagate,Componentes,Seagate FireCuda 510 SSD 500GB,$170.00,$225.00,2,$450.00
+204,2025-03-31 17:49:02,Cisco,Red,Cisco RV340,$170.00,$224.00,5,"$1,120.00"
+205,2024-09-01 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$653.00,2,"$1,306.00"
+206,2024-10-20 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$852.00,2,"$1,704.00"
+207,2025-01-25 17:49:02,Razer,Accesorio,Razer Kraken Tournament,$130.00,$176.00,2,$352.00
+208,2025-06-04 17:49:02,Cisco,Red,Cisco RV340,$170.00,$244.00,4,$976.00
+209,2025-02-17 17:49:02,Apple,Laptop,MacBook Air,"$1,200.00","$1,259.00",4,"$5,036.00"
+210,2025-07-06 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$662.00,5,"$3,310.00"
+211,2025-02-22 17:49:02,HP,Accesorio,HP Wireless Keyboard,$40.00,$103.00,5,$515.00
+212,2025-06-30 17:49:02,D-Link,Red,D-Link DIR-850L,$80.00,$150.00,2,$300.00
+213,2025-06-26 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$874.00,2,"$1,748.00"
+214,2025-05-20 17:49:02,Apple,Tablet,iPad Pro 11,$800.00,$875.00,5,"$4,375.00"
+215,2024-07-15 17:49:02,MSI,Laptop,MSI Modern 14,$950.00,"$1,028.00",5,"$5,140.00"
+216,2025-04-27 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$870.00,4,"$3,480.00"
+217,2024-11-07 17:49:02,Samsung,Componentes,Samsung 970 EVO SSD 1TB,$150.00,$205.00,2,$410.00
+218,2025-02-16 17:49:02,Epson,Scanner,Epson Perfection V39,$90.00,$144.00,3,$432.00
+219,2024-11-14 17:49:02,Lenovo,Laptop,Lenovo Yoga 7i,$980.00,"$1,033.00",3,"$3,099.00"
+220,2024-11-28 17:49:02,Dell,Laptop,Dell Inspiron 15,$850.00,$897.00,1,$897.00
+221,2025-05-09 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3060,$400.00,$457.00,2,$914.00
+222,2024-10-10 17:49:02,Razer,Accesorio,Razer BlackWidow,$120.00,$180.00,4,$720.00
+223,2024-07-13 17:49:02,Epson,Scanner,Epson Perfection V39,$90.00,$156.00,3,$468.00
+224,2024-10-22 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$764.00,5,"$3,820.00"
+225,2024-12-28 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$320.00,5,"$1,600.00"
+226,2024-10-14 17:49:02,Kingston,Componentes,Kingston A2000 SSD 500GB,$90.00,$147.00,4,$588.00
+227,2024-09-23 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$156.00,4,$624.00
+228,2025-03-08 17:49:02,AMD,Componente,AMD Radeon Pro W5700,$650.00,$729.00,5,"$3,645.00"
+229,2025-06-25 17:49:02,Cisco,Red,Cisco RV340,$170.00,$241.00,3,$723.00
+230,2025-06-10 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$697.00,1,$697.00
+231,2025-03-27 17:49:02,MSI,Laptop,MSI Modern 14,$950.00,"$1,018.00",3,"$3,054.00"
+232,2024-07-25 17:49:02,Dell,Monitor,Dell P2419H,$250.00,$299.00,4,"$1,196.00"
+233,2024-10-21 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$330.00,5,"$1,650.00"
+234,2024-08-05 17:49:02,Linksys,Red,Linksys Velop,$230.00,$282.00,4,"$1,128.00"
+235,2025-03-20 17:49:02,Microsoft,Accesorio,Microsoft LifeCam HD-3000,$70.00,$133.00,4,$532.00
+236,2024-11-30 17:49:02,HP,Accesorio,HP Omen Gaming Mouse,$75.00,$155.00,4,$620.00
+237,2024-12-08 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$205.00,2,$410.00
+238,2025-06-28 17:49:02,Acer,Monitor,Acer R240HY,$200.00,$262.00,3,$786.00
+239,2024-12-25 17:49:02,Apple,Tablet,iPad Pro 11,$800.00,$849.00,4,"$3,396.00"
+240,2024-07-22 17:49:02,Samsung,Componentes,Samsung 970 EVO SSD 1TB,$150.00,$219.00,5,"$1,095.00"
+241,2024-10-09 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$205.00,3,$615.00
+242,2024-07-16 17:49:02,D-Link,Red,D-Link DIR-850L,$80.00,$143.00,5,$715.00
+243,2025-06-17 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$169.00,4,$676.00
+244,2024-11-02 17:49:02,TP-Link,Red,TP-Link Archer C7,$60.00,$120.00,2,$240.00
+245,2025-04-02 17:49:02,Dell,Laptop,Dell Inspiron 15,$850.00,$902.00,5,"$4,510.00"
+246,2024-09-15 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$103.00,2,$206.00
+247,2025-06-23 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$274.00,2,$548.00
+248,2025-03-17 17:49:02,Acer,Desktop,Acer Veriton X,$550.00,$627.00,5,"$3,135.00"
+249,2024-08-29 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$373.00,5,"$1,865.00"
+250,2025-05-11 17:49:02,AMD,Componente,AMD Radeon RX 6700 XT,$480.00,$531.00,1,$531.00
+251,2025-05-24 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$866.00,3,"$2,598.00"
+252,2024-09-14 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$186.00,2,$372.00
+253,2024-09-06 17:49:02,Seagate,Componentes,Seagate Barracuda 2TB HDD,$80.00,$153.00,1,$153.00
+254,2024-12-09 17:49:02,HP,Desktop,HP ProDesk 400,$540.00,$620.00,2,"$1,240.00"
+255,2025-03-28 17:49:02,Razer,Accesorio,Razer DeathAdder V2,$70.00,$124.00,2,$248.00
+256,2025-03-19 17:49:02,Netgear,Red,Netgear Orbi,$250.00,$323.00,4,"$1,292.00"
+257,2024-12-16 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$253.00,2,$506.00
+258,2025-06-03 17:49:02,Dell,Desktop,Dell Inspiron Desktop,$500.00,$556.00,3,"$1,668.00"
+259,2025-03-03 17:49:02,Dell,Laptop,Dell Inspiron 15,$850.00,$927.00,4,"$3,708.00"
+260,2025-02-01 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$218.00,1,$218.00
+261,2024-09-18 17:49:02,HP,Laptop,HP Spectre x360,"$1,100.00","$1,148.00",3,"$3,444.00"
+262,2025-02-07 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$155.00,4,$620.00
+263,2024-08-06 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$656.00,2,"$1,312.00"
+264,2025-07-06 17:49:02,HyperX,Accesorio,HyperX Cloud II,$100.00,$158.00,1,$158.00
+265,2025-01-04 17:49:02,SteelSeries,Accesorio,SteelSeries Arctis 7,$150.00,$228.00,3,$684.00
+266,2025-04-02 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$245.00,5,"$1,225.00"
+267,2024-09-22 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$691.00,1,$691.00
+268,2024-12-16 17:49:02,Samsung,Componentes,Samsung 970 EVO SSD 1TB,$150.00,$219.00,2,$438.00
+269,2024-12-21 17:49:02,HP,Laptop,HP Spectre x360,"$1,100.00","$1,165.00",1,"$1,165.00"
+270,2025-05-15 17:49:02,Microsoft,Accesorio,Microsoft LifeCam HD-3000,$70.00,$149.00,5,$745.00
+271,2024-09-05 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$648.00,1,$648.00
+272,2025-04-06 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$222.00,4,$888.00
+273,2025-03-14 17:49:02,Acer,Laptop,Acer Aspire 5,$700.00,$741.00,5,"$3,705.00"
+274,2025-02-06 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$660.00,2,"$1,320.00"
+275,2024-12-07 17:49:02,HyperX,Accesorio,HyperX Cloud II,$100.00,$157.00,5,$785.00
+276,2024-10-09 17:49:02,HP,Accesorio,HP Wireless Keyboard,$40.00,$88.00,2,$176.00
+277,2025-01-03 17:49:02,Epson,Scanner,Epson Perfection V39,$90.00,$140.00,3,$420.00
+278,2024-09-26 17:49:02,Ricoh,Impresora,Ricoh SP C250DN,$180.00,$232.00,3,$696.00
+279,2024-11-14 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$95.00,5,$475.00
+280,2025-04-12 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$153.00,5,$765.00
+281,2025-05-27 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$714.00,2,"$1,428.00"
+282,2025-01-03 17:49:02,Seagate,Componentes,Seagate FireCuda 510 SSD 500GB,$170.00,$228.00,2,$456.00
+283,2025-05-10 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$183.00,5,$915.00
+284,2025-01-29 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$150.00,3,$450.00
+285,2025-06-02 17:49:02,ASUS,Monitor,ASUS ProArt PA248Q,$350.00,$425.00,5,"$2,125.00"
+286,2025-05-11 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$842.00,4,"$3,368.00"
+287,2025-05-30 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$662.00,5,"$3,310.00"
+288,2024-08-28 17:49:02,Intel,Componentes,Intel Optane Memory 32GB,$130.00,$173.00,5,$865.00
+289,2024-08-22 17:49:02,AMD,Componente,AMD Radeon Pro W5700,$650.00,$699.00,5,"$3,495.00"
+290,2024-08-10 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$355.00,4,"$1,420.00"
+291,2025-05-01 17:49:02,Cisco,Red,Cisco Meraki Go,$220.00,$273.00,5,"$1,365.00"
+292,2024-07-14 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3060,$400.00,$447.00,5,"$2,235.00"
+293,2025-04-12 17:49:02,D-Link,Red,D-Link COVR-1102,$190.00,$235.00,5,"$1,175.00"
+294,2024-08-13 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$165.00,2,$330.00
+295,2025-01-26 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$523.00,2,"$1,046.00"
+296,2025-03-09 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$354.00,5,"$1,770.00"
+297,2025-06-08 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$342.00,1,$342.00
+298,2025-05-27 17:49:02,Cisco,Red,Cisco Meraki Go,$220.00,$277.00,2,$554.00
+299,2025-01-01 17:49:02,HP,Scanner,HP ScanJet Pro,$120.00,$198.00,3,$594.00
+300,2025-01-19 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$304.00,3,$912.00
+301,2025-01-07 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$327.00,2,$654.00
+302,2025-05-06 17:49:02,HP,Scanner,HP ScanJet Pro,$120.00,$161.00,4,$644.00
+303,2025-02-04 17:49:02,TP-Link,Red,TP-Link Deco M5,$200.00,$269.00,3,$807.00
+304,2025-05-18 17:49:02,Apple,Laptop,MacBook Air,"$1,200.00","$1,245.00",5,"$6,225.00"
+305,2024-08-24 17:49:02,Lenovo,Laptop,Lenovo Yoga 7i,$980.00,"$1,030.00",5,"$5,150.00"
+306,2025-03-14 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$679.00,2,"$1,358.00"
+307,2025-02-10 17:49:02,Acer,Laptop,Acer Aspire 5,$700.00,$757.00,5,"$3,785.00"
+308,2025-03-24 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$749.00,4,"$2,996.00"
+309,2025-04-01 17:49:02,Intel,Componentes,Intel Optane Memory 32GB,$130.00,$176.00,1,$176.00
+310,2025-03-20 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$313.00,3,$939.00
+311,2025-02-15 17:49:02,HyperX,Accesorio,HyperX Cloud II,$100.00,$149.00,2,$298.00
+312,2024-07-19 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3060,$400.00,$470.00,1,$470.00
+313,2025-06-22 17:49:02,Dell,Laptop,Dell Inspiron 15,$850.00,$897.00,2,"$1,794.00"
+314,2025-06-13 17:49:02,Western Digital,Componentes,WD Black SN750 1TB,$200.00,$268.00,1,$268.00
+315,2025-05-06 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$305.00,3,$915.00
+316,2025-04-28 17:49:02,TP-Link,Red,TP-Link Archer C7,$60.00,$121.00,2,$242.00
+317,2025-07-03 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$120.00,1,$120.00
+318,2025-04-29 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3060,$400.00,$463.00,4,"$1,852.00"
+319,2025-04-06 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$474.00,1,$474.00
+320,2024-11-10 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$671.00,2,"$1,342.00"
+321,2025-06-24 17:49:02,Corsair,Accesorio,Corsair Scimitar,$80.00,$158.00,5,$790.00
+322,2024-09-23 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$223.00,1,$223.00
+323,2024-12-03 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$521.00,2,"$1,042.00"
+324,2024-09-30 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$777.00,4,"$3,108.00"
+325,2025-02-27 17:49:02,Apple,Tablet,iPad Pro 11,$800.00,$880.00,5,"$4,400.00"
+326,2024-10-06 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,128.00",5,"$5,640.00"
+327,2024-12-21 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$145.00,5,$725.00
+328,2025-07-03 17:49:02,Apple,Desktop,iMac 21.5 pulgadas,"$1,100.00","$1,141.00",1,"$1,141.00"
+329,2025-07-02 17:49:02,Epson,Scanner,Epson Perfection V39,$90.00,$138.00,2,$276.00
+330,2024-10-22 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$449.00,4,"$1,796.00"
+331,2025-04-01 17:49:02,MSI,Laptop,MSI Modern 14,$950.00,"$1,000.00",5,"$5,000.00"
+332,2024-08-18 17:49:02,Microsoft,Accesorio,Microsoft LifeCam HD-3000,$70.00,$131.00,4,$524.00
+333,2025-05-02 17:49:02,Corsair,Componentes,Corsair Vengeance LPX 16GB,$75.00,$133.00,5,$665.00
+334,2024-11-15 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$270.00,3,$810.00
+335,2025-03-28 17:49:02,Canon,Scanner,Canon CanoScan LiDE,$100.00,$147.00,3,$441.00
+336,2024-09-02 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$148.00,4,$592.00
+337,2025-04-03 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$672.00,1,$672.00
+338,2025-01-15 17:49:02,Lenovo,Laptop,Lenovo ThinkPad E15,$900.00,$941.00,5,"$4,705.00"
+339,2024-12-28 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$301.00,3,$903.00
+340,2025-03-25 17:49:02,Samsung,Tablet,Samsung Galaxy Tab S7,$650.00,$719.00,5,"$3,595.00"
+341,2025-05-20 17:49:02,Seagate,Componentes,Seagate Barracuda 2TB HDD,$80.00,$153.00,1,$153.00
+342,2024-12-10 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$330.00,4,"$1,320.00"
+343,2025-06-26 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$291.00,3,$873.00
+344,2025-01-22 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$143.00,2,$286.00
+345,2024-07-27 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$184.00,3,$552.00
+346,2025-03-20 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$159.00,3,$477.00
+347,2025-03-03 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$761.00,3,"$2,283.00"
+348,2025-06-18 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$201.00,4,$804.00
+349,2025-04-08 17:49:02,TP-Link,Red,TP-Link Archer C7,$60.00,$116.00,2,$232.00
+350,2024-09-19 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$345.00,4,"$1,380.00"
+351,2025-04-13 17:49:02,Google,Tablet,Google Pixel Slate,$600.00,$674.00,1,$674.00
+352,2025-02-01 17:49:02,HP,Monitor,HP 24mh,$280.00,$343.00,2,$686.00
+353,2024-08-16 17:49:02,Dell,Accesorio,Dell KM117 Wireless,$45.00,$106.00,4,$424.00
+354,2024-08-28 17:49:02,Razer,Accesorio,Razer BlackWidow,$120.00,$186.00,4,$744.00
+355,2024-10-31 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$686.00,4,"$2,744.00"
+356,2025-06-15 17:49:02,AMD,Componente,AMD Radeon RX 6900 XT,"$1,000.00","$1,042.00",3,"$3,126.00"
+357,2025-01-15 17:49:02,Asus,Accesorio,Asus ROG Strix Scope,$110.00,$157.00,5,$785.00
+358,2025-01-14 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,096.00",5,"$5,480.00"
+359,2024-12-13 17:49:02,Western Digital,Componentes,WD Blue 1TB HDD,$60.00,$140.00,5,$700.00
+360,2025-06-24 17:49:02,NVIDIA,Componente,NVIDIA Quadro P2200,$450.00,$493.00,1,$493.00
+361,2024-10-31 17:49:02,Acer,Laptop,Acer Aspire 5,$700.00,$752.00,2,"$1,504.00"
+362,2024-08-04 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$207.00,3,$621.00
+363,2024-09-21 17:49:02,AMD,Componente,AMD Radeon RX 6700 XT,$480.00,$527.00,1,$527.00
+364,2025-07-07 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$173.00,5,$865.00
+365,2025-06-23 17:49:02,HP,Scanner,HP ScanJet Pro,$120.00,$164.00,1,$164.00
+366,2024-11-27 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$246.00,2,$492.00
+367,2024-07-20 17:49:02,Acer,Monitor,Acer R240HY,$200.00,$267.00,1,$267.00
+368,2025-05-15 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$269.00,5,"$1,345.00"
+369,2025-01-06 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$165.00,2,$330.00
+370,2024-12-14 17:49:02,AMD,Componente,AMD Radeon Pro W5700,$650.00,$711.00,2,"$1,422.00"
+371,2025-02-11 17:49:02,HP,Impresora,HP LaserJet Pro MFP,$300.00,$378.00,4,"$1,512.00"
+372,2024-08-29 17:49:02,Acer,Laptop,Acer Aspire 5,$700.00,$773.00,2,"$1,546.00"
+373,2024-09-25 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$477.00,3,"$1,431.00"
+374,2024-09-04 17:49:02,Dell,Desktop,Dell Inspiron Desktop,$500.00,$544.00,4,"$2,176.00"
+375,2024-09-15 17:49:02,Dell,Monitor,Dell UltraSharp 24,$300.00,$374.00,2,$748.00
+376,2025-03-21 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$190.00,4,$760.00
+377,2025-03-04 17:49:02,HP,Desktop,HP ProDesk 400,$540.00,$596.00,5,"$2,980.00"
+378,2025-01-10 17:49:02,Dell,Accesorio,Dell KM117 Wireless,$45.00,$92.00,5,$460.00
+379,2025-01-09 17:49:02,Samsung,Componentes,Samsung 970 EVO SSD 1TB,$150.00,$207.00,5,"$1,035.00"
+380,2025-02-24 17:49:02,Microsoft,Accesorio,Microsoft LifeCam HD-3000,$70.00,$110.00,4,$440.00
+381,2025-03-15 17:49:02,HP,Accesorio,HP Wireless Keyboard,$40.00,$101.00,5,$505.00
+382,2025-06-14 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$698.00,5,"$3,490.00"
+383,2025-03-06 17:49:02,TP-Link,Red,TP-Link Archer C7,$60.00,$113.00,3,$339.00
+384,2025-03-26 17:49:02,Linksys,Red,Linksys Velop,$230.00,$304.00,2,$608.00
+385,2024-10-20 17:49:02,Linksys,Red,Linksys Velop,$230.00,$275.00,3,$825.00
+386,2024-08-18 17:49:02,MSI,Laptop,MSI Modern 14,$950.00,"$1,022.00",2,"$2,044.00"
+387,2024-11-30 17:49:02,ASUS,Tablet,Asus ZenPad 10,$350.00,$409.00,5,"$2,045.00"
+388,2024-10-19 17:49:02,Western Digital,Componentes,WD Black SN750 1TB,$200.00,$275.00,3,$825.00
+389,2024-11-11 17:49:02,Western Digital,Componentes,WD Blue 1TB HDD,$60.00,$131.00,1,$131.00
+390,2025-05-30 17:49:02,Kingston,Componentes,Kingston A2000 SSD 500GB,$90.00,$150.00,1,$150.00
+391,2025-06-12 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$251.00,4,"$1,004.00"
+392,2024-12-08 17:49:02,Lenovo,Desktop,Lenovo IdeaCentre 3,$560.00,$623.00,4,"$2,492.00"
+393,2025-05-12 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$167.00,4,$668.00
+394,2025-03-06 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$743.00,2,"$1,486.00"
+395,2024-08-15 17:49:02,Acer,Laptop,Acer Aspire 5,$700.00,$761.00,5,"$3,805.00"
+396,2024-07-24 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$327.00,3,$981.00
+397,2025-04-30 17:49:02,Corsair,Accesorio,Corsair K95 RGB,$150.00,$228.00,5,"$1,140.00"
+398,2025-02-03 17:49:02,Corsair,Accesorio,Corsair K95 RGB,$150.00,$230.00,5,"$1,150.00"
+399,2024-12-03 17:49:02,Dell,Monitor,Dell P2419H,$250.00,$305.00,5,"$1,525.00"
+400,2024-12-05 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$241.00,4,$964.00
+401,2024-10-23 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$189.00,1,$189.00
+402,2024-08-16 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$879.00,3,"$2,637.00"
+403,2025-04-16 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$672.00,3,"$2,016.00"
+404,2024-12-05 17:49:02,Acer,Desktop,Acer Veriton X,$550.00,$616.00,4,"$2,464.00"
+405,2024-10-12 17:49:02,HP,Monitor,HP 24mh,$280.00,$334.00,5,"$1,670.00"
+406,2025-02-27 17:49:02,Netgear,Red,Netgear Orbi,$250.00,$310.00,5,"$1,550.00"
+407,2024-09-21 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$237.00,3,$711.00
+408,2025-05-22 17:49:02,Google,Tablet,Google Pixel Slate,$600.00,$663.00,4,"$2,652.00"
+409,2025-01-31 17:49:02,Razer,Accesorio,Razer DeathAdder V2,$70.00,$139.00,5,$695.00
+410,2024-12-06 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$301.00,2,$602.00
+411,2025-07-02 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$772.00,2,"$1,544.00"
+412,2025-04-01 17:49:02,Western Digital,Componentes,WD Black SN750 1TB,$200.00,$268.00,1,$268.00
+413,2025-06-06 17:49:02,TP-Link,Red,TP-Link Archer C7,$60.00,$122.00,5,$610.00
+414,2025-06-19 17:49:02,Logitech,Accesorio,Logitech G Pro X,$120.00,$170.00,1,$170.00
+415,2024-11-04 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$672.00,2,"$1,344.00"
+416,2025-05-10 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$274.00,3,$822.00
+417,2025-03-09 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$700.00,3,"$2,100.00"
+418,2025-05-27 17:49:02,Ricoh,Impresora,Ricoh SP C250DN,$180.00,$237.00,3,$711.00
+419,2024-07-10 17:49:02,Ricoh,Impresora,Ricoh SP C250DN,$180.00,$231.00,4,$924.00
+420,2024-12-16 17:49:02,Kingston,Componentes,Kingston A2000 SSD 500GB,$90.00,$140.00,5,$700.00
+421,2024-12-02 17:49:02,Apple,Tablet,iPad Pro 11,$800.00,$855.00,3,"$2,565.00"
+422,2024-07-11 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$95.00,2,$190.00
+423,2025-02-04 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$313.00,5,"$1,565.00"
+424,2024-09-03 17:49:02,Dell,Accesorio,Dell KM117 Wireless,$45.00,$113.00,1,$113.00
+425,2024-09-25 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$320.00,3,$960.00
+426,2025-02-21 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$663.00,5,"$3,315.00"
+427,2024-11-15 17:49:02,TP-Link,Red,TP-Link Archer C7,$60.00,$133.00,2,$266.00
+428,2024-08-25 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$221.00,2,$442.00
+429,2024-08-21 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$126.00,5,$630.00
+430,2025-06-17 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,091.00",5,"$5,455.00"
+431,2025-03-08 17:49:02,HP,Laptop,HP Pavilion 14,$750.00,$796.00,4,"$3,184.00"
+432,2024-10-21 17:49:02,Corsair,Accesorio,Corsair K95 RGB,$150.00,$224.00,5,"$1,120.00"
+433,2025-06-21 17:49:02,AMD,Componente,AMD Radeon RX 6700 XT,$480.00,$535.00,4,"$2,140.00"
+434,2024-11-05 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$657.00,3,"$1,971.00"
+435,2025-01-17 17:49:02,Lenovo,Laptop,Lenovo ThinkPad E15,$900.00,$946.00,5,"$4,730.00"
+436,2024-07-14 17:49:02,Apple,Laptop,MacBook Air,"$1,200.00","$1,263.00",5,"$6,315.00"
+437,2025-04-26 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$749.00,4,"$2,996.00"
+438,2025-02-05 17:49:02,Acer,Laptop,Acer Aspire 5,$700.00,$773.00,4,"$3,092.00"
+439,2025-02-12 17:49:02,ASUS,Desktop,ASUS ExpertCenter,$630.00,$686.00,2,"$1,372.00"
+440,2024-12-04 17:49:02,Seagate,Componentes,Seagate Barracuda 2TB HDD,$80.00,$149.00,5,$745.00
+441,2025-04-05 17:49:02,ASUS,Monitor,ASUS ProArt PA248Q,$350.00,$424.00,2,$848.00
+442,2025-04-26 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$213.00,2,$426.00
+443,2024-08-04 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$874.00,5,"$4,370.00"
+444,2024-10-27 17:49:02,Acer,Monitor,Acer R240HY,$200.00,$280.00,3,$840.00
+445,2024-09-08 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$216.00,4,$864.00
+446,2025-06-23 17:49:02,MSI,Laptop,MSI Modern 14,$950.00,$996.00,4,"$3,984.00"
+447,2024-12-29 17:49:02,TP-Link,Red,TP-Link Archer C7,$60.00,$130.00,3,$390.00
+448,2025-06-20 17:49:02,Epson,Scanner,Epson Perfection V39,$90.00,$139.00,4,$556.00
+449,2024-12-02 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$208.00,5,"$1,040.00"
+450,2025-02-21 17:49:02,AMD,Componente,AMD Radeon RX 6700 XT,$480.00,$521.00,2,"$1,042.00"
+451,2024-11-30 17:49:02,D-Link,Red,D-Link DIR-850L,$80.00,$148.00,3,$444.00
+452,2024-11-11 17:49:02,Microsoft,Tablet,Surface Go 2,$550.00,$620.00,4,"$2,480.00"
+453,2025-03-11 17:49:02,HP,Monitor,HP 24mh,$280.00,$341.00,5,"$1,705.00"
+454,2024-09-15 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$296.00,3,$888.00
+455,2025-05-02 17:49:02,Netgear,Red,Netgear Orbi,$250.00,$305.00,1,$305.00
+456,2025-02-13 17:49:02,HP,Desktop,HP EliteDesk 800,$680.00,$745.00,2,"$1,490.00"
+457,2024-12-10 17:49:02,Canon,Scanner,Canon CanoScan LiDE,$100.00,$153.00,4,$612.00
+458,2025-03-18 17:49:02,HP,Accesorio,HP Wireless Keyboard,$40.00,$109.00,2,$218.00
+459,2025-01-07 17:49:02,Corsair,Componentes,Corsair Vengeance LPX 16GB,$75.00,$117.00,5,$585.00
+460,2024-11-09 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3060,$400.00,$448.00,1,$448.00
+461,2025-06-24 17:49:02,AMD,Componente,AMD Radeon RX 5600 XT,$300.00,$365.00,2,$730.00
+462,2024-08-04 17:49:02,Acer,Desktop,Acer Veriton X,$550.00,$591.00,2,"$1,182.00"
+463,2025-02-23 17:49:02,Dell,Monitor,Dell UltraSharp 24,$300.00,$357.00,1,$357.00
+464,2025-06-09 17:49:02,SteelSeries,Accesorio,SteelSeries Arctis 7,$150.00,$214.00,3,$642.00
+465,2025-01-13 17:49:02,Canon,Impresora,Canon Pixma G6020,$280.00,$324.00,5,"$1,620.00"
+466,2025-03-24 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$187.00,1,$187.00
+467,2024-09-04 17:49:02,Dell,Monitor,Dell P2419H,$250.00,$313.00,3,$939.00
+468,2024-11-04 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$374.00,1,$374.00
+469,2025-05-31 17:49:02,Dell,Desktop,Dell Inspiron Desktop,$500.00,$565.00,5,"$2,825.00"
+470,2024-07-21 17:49:02,SteelSeries,Accesorio,SteelSeries Arctis 7,$150.00,$218.00,3,$654.00
+471,2024-10-27 17:49:02,Lenovo,Laptop,Lenovo Yoga 7i,$980.00,"$1,027.00",4,"$4,108.00"
+472,2024-11-05 17:49:02,LG,Monitor,LG 27UL850,$400.00,$476.00,1,$476.00
+473,2024-12-31 17:49:02,Logitech,Accesorio,Logitech G Pro X,$120.00,$160.00,2,$320.00
+474,2024-08-22 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$188.00,5,$940.00
+475,2024-11-23 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$474.00,1,$474.00
+476,2024-09-05 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,099.00",5,"$5,495.00"
+477,2025-04-24 17:49:02,HP,Laptop,HP Spectre x360,"$1,100.00","$1,157.00",1,"$1,157.00"
+478,2024-10-31 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$260.00,1,$260.00
+479,2024-10-01 17:49:02,HP,Impresora,HP LaserJet Pro MFP,$300.00,$349.00,1,$349.00
+480,2025-01-15 17:49:02,Canon,Impresora,Canon Pixma G6020,$280.00,$323.00,5,"$1,615.00"
+481,2024-12-13 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$166.00,4,$664.00
+482,2025-01-05 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$268.00,1,$268.00
+483,2025-02-26 17:49:02,Samsung,Tablet,Samsung Galaxy Tab S7,$650.00,$710.00,2,"$1,420.00"
+484,2025-05-06 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$311.00,4,"$1,244.00"
+485,2025-02-09 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$268.00,1,$268.00
+486,2024-10-05 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$174.00,4,$696.00
+487,2024-11-28 17:49:02,Dell,Monitor,Dell UltraSharp 24,$300.00,$374.00,3,"$1,122.00"
+488,2024-09-15 17:49:02,HP,Scanner,HP ScanJet Pro,$120.00,$196.00,4,$784.00
+489,2025-02-08 17:49:02,TP-Link,Red,TP-Link Deco M5,$200.00,$266.00,5,"$1,330.00"
+490,2025-05-09 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$499.00,4,"$1,996.00"
+491,2024-08-12 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$143.00,2,$286.00
+492,2024-12-22 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$121.00,5,$605.00
+493,2025-04-27 17:49:02,Canon,Scanner,Canon CanoScan LiDE,$100.00,$176.00,1,$176.00
+494,2024-10-19 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$748.00,2,"$1,496.00"
+495,2024-08-10 17:49:02,Logitech,Accesorio,Logitech G Pro X,$120.00,$179.00,3,$537.00
+496,2025-01-05 17:49:02,Dell,Tablet,Dell Venue 8 Pro,$200.00,$262.00,1,$262.00
+497,2025-02-08 17:49:02,Intel,Componentes,Intel Optane Memory 32GB,$130.00,$192.00,2,$384.00
+498,2025-03-10 17:49:02,Dell,Tablet,Dell Venue 8 Pro,$200.00,$268.00,5,"$1,340.00"
+499,2024-11-18 17:49:02,HP,Accesorio,HP Omen Gaming Mouse,$75.00,$130.00,1,$130.00
+500,2025-03-25 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$255.00,2,$510.00
+501,2024-08-26 17:49:02,Western Digital,Componentes,WD Blue 1TB HDD,$60.00,$138.00,4,$552.00
+502,2025-06-11 17:49:02,Western Digital,Componentes,WD Blue 1TB HDD,$60.00,$127.00,2,$254.00
+503,2025-01-14 17:49:02,Dell,Tablet,Dell Venue 8 Pro,$200.00,$250.00,4,"$1,000.00"
+504,2024-08-05 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$176.00,2,$352.00
+505,2025-01-30 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$123.00,4,$492.00
+506,2025-06-24 17:49:02,HP,Accesorio,HP Wireless Keyboard,$40.00,$117.00,1,$117.00
+507,2024-09-05 17:49:02,Acer,Desktop,Acer Veriton X,$550.00,$593.00,2,"$1,186.00"
+508,2024-11-12 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$410.00,5,"$2,050.00"
+509,2025-06-03 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$329.00,4,"$1,316.00"
+510,2025-04-10 17:49:02,Logitech,Accesorio,Logitech G Pro X,$120.00,$174.00,5,$870.00
+511,2024-07-14 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$160.00,3,$480.00
+512,2025-06-21 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$177.00,4,$708.00
+513,2025-02-27 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$317.00,5,"$1,585.00"
+514,2024-08-13 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$161.00,5,$805.00
+515,2025-05-14 17:49:02,HP,Accesorio,HP Wireless Keyboard,$40.00,$100.00,1,$100.00
+516,2025-02-16 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$201.00,1,$201.00
+517,2025-05-30 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$357.00,5,"$1,785.00"
+518,2024-09-20 17:49:02,MSI,Laptop,MSI Modern 14,$950.00,$999.00,4,"$3,996.00"
+519,2024-08-06 17:49:02,LG,Monitor,LG 27UL850,$400.00,$450.00,4,"$1,800.00"
+520,2024-11-15 17:49:02,Cisco,Red,Cisco RV340,$170.00,$247.00,3,$741.00
+521,2024-10-03 17:49:02,NVIDIA,Componente,NVIDIA Quadro P2200,$450.00,$523.00,3,"$1,569.00"
+522,2024-12-14 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$721.00,5,"$3,605.00"
+523,2025-01-22 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$196.00,3,$588.00
+524,2024-09-11 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$124.00,5,$620.00
+525,2025-02-27 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$123.00,1,$123.00
+526,2024-09-08 17:49:02,Razer,Accesorio,Razer Kraken Tournament,$130.00,$170.00,1,$170.00
+527,2024-10-19 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$156.00,4,$624.00
+528,2024-07-21 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$682.00,2,"$1,364.00"
+529,2024-11-05 17:49:02,Logitech,Accesorio,Logitech G Pro X,$120.00,$196.00,4,$784.00
+530,2024-10-01 17:49:02,Corsair,Accesorio,Corsair K95 RGB,$150.00,$190.00,2,$380.00
+531,2025-02-08 17:49:02,Seagate,Componentes,Seagate FireCuda 510 SSD 500GB,$170.00,$223.00,3,$669.00
+532,2025-04-14 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$224.00,1,$224.00
+533,2024-12-09 17:49:02,Dell,Tablet,Dell Venue 8 Pro,$200.00,$260.00,2,$520.00
+534,2025-07-07 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$757.00,5,"$3,785.00"
+535,2025-01-16 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$203.00,4,$812.00
+536,2024-09-29 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$354.00,5,"$1,770.00"
+537,2024-11-10 17:49:02,Dell,Tablet,Dell Venue 8 Pro,$200.00,$257.00,4,"$1,028.00"
+538,2024-07-07 17:49:02,HP,Scanner,HP ScanJet Pro,$120.00,$198.00,2,$396.00
+539,2024-07-12 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$864.00,2,"$1,728.00"
+540,2025-06-03 17:49:02,Ricoh,Impresora,Ricoh SP C250DN,$180.00,$250.00,3,$750.00
+541,2025-06-18 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$867.00,4,"$3,468.00"
+542,2024-09-05 17:49:02,Canon,Impresora,Canon Pixma G6020,$280.00,$348.00,5,"$1,740.00"
+543,2025-03-07 17:49:02,Corsair,Accesorio,Corsair Scimitar,$80.00,$154.00,5,$770.00
+544,2025-02-26 17:49:02,ASUS,Desktop,ASUS ExpertCenter,$630.00,$675.00,5,"$3,375.00"
+545,2024-10-22 17:49:02,Ricoh,Impresora,Ricoh SP C250DN,$180.00,$249.00,5,"$1,245.00"
+546,2024-09-15 17:49:02,Western Digital,Componentes,WD Black SN750 1TB,$200.00,$273.00,4,"$1,092.00"
+547,2024-07-22 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$188.00,1,$188.00
+548,2024-10-16 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$235.00,1,$235.00
+549,2025-02-22 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,096.00",1,"$1,096.00"
+550,2025-01-25 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$699.00,1,$699.00
+551,2025-02-21 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,100.00",1,"$1,100.00"
+552,2024-11-11 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$146.00,5,$730.00
+553,2025-05-30 17:49:02,Dell,Laptop,Dell Inspiron 15,$850.00,$912.00,3,"$2,736.00"
+554,2024-09-25 17:49:02,Epson,Scanner,Epson Perfection V39,$90.00,$152.00,5,$760.00
+555,2025-05-12 17:49:02,Microsoft,Accesorio,Microsoft LifeCam HD-3000,$70.00,$130.00,3,$390.00
+556,2025-06-06 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$260.00,1,$260.00
+557,2025-01-17 17:49:02,Asus,Accesorio,Asus ROG Strix Scope,$110.00,$188.00,2,$376.00
+558,2024-11-24 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$172.00,4,$688.00
+559,2024-07-09 17:49:02,Canon,Scanner,Canon CanoScan LiDE,$100.00,$165.00,2,$330.00
+560,2025-06-27 17:49:02,Logitech,Accesorio,Logitech G Pro X,$120.00,$190.00,4,$760.00
+561,2025-06-05 17:49:02,Cisco,Red,Cisco RV340,$170.00,$239.00,2,$478.00
+562,2025-06-01 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$130.00,3,$390.00
+563,2025-06-24 17:49:02,ASUS,Tablet,Asus ZenPad 10,$350.00,$403.00,3,"$1,209.00"
+564,2024-11-26 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$281.00,5,"$1,405.00"
+565,2025-06-02 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$845.00,1,$845.00
+566,2024-07-12 17:49:02,ASUS,Tablet,Asus ZenPad 10,$350.00,$394.00,3,"$1,182.00"
+567,2025-03-07 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$664.00,5,"$3,320.00"
+568,2024-11-13 17:49:02,Logitech,Accesorio,Logitech G Pro X,$120.00,$191.00,4,$764.00
+569,2024-10-06 17:49:02,Google,Tablet,Google Pixel Slate,$600.00,$651.00,4,"$2,604.00"
+570,2025-01-11 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$279.00,2,$558.00
+571,2024-07-24 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$144.00,1,$144.00
+572,2024-08-01 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$367.00,3,"$1,101.00"
+573,2024-09-13 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$301.00,2,$602.00
+574,2025-06-14 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$223.00,1,$223.00
+575,2025-06-23 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$130.00,3,$390.00
+576,2025-01-19 17:49:02,Corsair,Accesorio,Corsair Scimitar,$80.00,$148.00,2,$296.00
+577,2025-01-17 17:49:02,Corsair,Componentes,Corsair Vengeance LPX 16GB,$75.00,$119.00,5,$595.00
+578,2025-04-19 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3060,$400.00,$448.00,3,"$1,344.00"
+579,2024-08-01 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$127.00,5,$635.00
+580,2024-12-19 17:49:02,Dell,Monitor,Dell P2419H,$250.00,$306.00,4,"$1,224.00"
+581,2025-05-30 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$195.00,5,$975.00
+582,2024-12-24 17:49:02,AMD,Componente,AMD Radeon RX 5600 XT,$300.00,$343.00,4,"$1,372.00"
+583,2024-09-13 17:49:02,SteelSeries,Accesorio,SteelSeries Arctis 7,$150.00,$210.00,5,"$1,050.00"
+584,2025-06-11 17:49:02,Ricoh,Impresora,Ricoh SP C250DN,$180.00,$226.00,2,$452.00
+585,2025-06-04 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$412.00,2,$824.00
+586,2025-03-07 17:49:02,Western Digital,Componentes,WD Black SN750 1TB,$200.00,$245.00,5,"$1,225.00"
+587,2025-02-01 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,115.00",2,"$2,230.00"
+588,2024-08-02 17:49:02,AMD,Componente,AMD Radeon RX 5600 XT,$300.00,$353.00,2,$706.00
+589,2024-10-05 17:49:02,Intel,Componentes,Intel Optane Memory 32GB,$130.00,$189.00,2,$378.00
+590,2025-03-28 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$226.00,5,"$1,130.00"
+591,2025-04-21 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$462.00,4,"$1,848.00"
+592,2025-05-25 17:49:02,Logitech,Accesorio,Logitech G Pro X,$120.00,$192.00,5,$960.00
+593,2024-11-24 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$200.00,2,$400.00
+594,2024-10-22 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$140.00,5,$700.00
+595,2025-04-10 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$426.00,3,"$1,278.00"
+596,2025-03-28 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$374.00,4,"$1,496.00"
+597,2024-09-23 17:49:02,TP-Link,Red,TP-Link Deco M5,$200.00,$279.00,1,$279.00
+598,2025-06-17 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$871.00,1,$871.00
+599,2024-08-12 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$322.00,5,"$1,610.00"
+600,2025-04-12 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3060,$400.00,$453.00,1,$453.00
+601,2025-03-29 17:49:02,Lenovo,Laptop,Lenovo ThinkPad E15,$900.00,$979.00,4,"$3,916.00"
+602,2024-11-02 17:49:02,Canon,Scanner,Canon CanoScan LiDE,$100.00,$146.00,3,$438.00
+603,2025-03-22 17:49:02,Razer,Accesorio,Razer DeathAdder V2,$70.00,$117.00,1,$117.00
+604,2025-07-02 17:49:02,Google,Tablet,Google Pixel Slate,$600.00,$649.00,5,"$3,245.00"
+605,2025-02-27 17:49:02,Corsair,Componentes,Corsair Vengeance LPX 16GB,$75.00,$135.00,2,$270.00
+606,2024-08-24 17:49:02,Razer,Accesorio,Razer DeathAdder V2,$70.00,$126.00,4,$504.00
+607,2024-12-29 17:49:02,Epson,Scanner,Epson Perfection V39,$90.00,$158.00,3,$474.00
+608,2025-04-30 17:49:02,HP,Accesorio,HP Omen Gaming Mouse,$75.00,$119.00,5,$595.00
+609,2025-05-04 17:49:02,ASUS,Monitor,ASUS ProArt PA248Q,$350.00,$411.00,1,$411.00
+610,2024-07-20 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$866.00,1,$866.00
+611,2024-08-02 17:49:02,Asus,Accesorio,Asus ROG Strix Scope,$110.00,$183.00,3,$549.00
+612,2025-03-05 17:49:02,Microsoft,Tablet,Surface Go 2,$550.00,$618.00,2,"$1,236.00"
+613,2025-02-21 17:49:02,ASUS,Monitor,ASUS ProArt PA248Q,$350.00,$416.00,1,$416.00
+614,2025-02-08 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$161.00,5,$805.00
+615,2025-03-04 17:49:02,Canon,Impresora,Canon Pixma G6020,$280.00,$359.00,5,"$1,795.00"
+616,2024-10-05 17:49:02,Acer,Desktop,Acer Veriton X,$550.00,$630.00,2,"$1,260.00"
+617,2025-01-08 17:49:02,Lenovo,Laptop,Lenovo Yoga 7i,$980.00,"$1,021.00",1,"$1,021.00"
+618,2024-07-30 17:49:02,Corsair,Accesorio,Corsair K95 RGB,$150.00,$223.00,1,$223.00
+619,2024-12-05 17:49:02,HP,Accesorio,HP Wireless Keyboard,$40.00,$89.00,3,$267.00
+620,2024-11-30 17:49:02,Samsung,Componentes,Samsung 970 EVO SSD 1TB,$150.00,$210.00,4,$840.00
+621,2025-02-16 17:49:02,AMD,Componente,AMD Radeon RX 5600 XT,$300.00,$350.00,2,$700.00
+622,2024-08-09 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$303.00,3,$909.00
+623,2025-06-22 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$153.00,4,$612.00
+624,2024-10-27 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$296.00,5,"$1,480.00"
+625,2024-08-30 17:49:02,Intel,Componentes,Intel Optane Memory 32GB,$130.00,$189.00,3,$567.00
+626,2025-04-24 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$858.00,4,"$3,432.00"
+627,2024-09-27 17:49:02,LG,Monitor,LG 27UL850,$400.00,$463.00,1,$463.00
+628,2025-05-05 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$137.00,2,$274.00
+629,2024-11-21 17:49:02,ASUS,Monitor,ASUS ProArt PA248Q,$350.00,$423.00,4,"$1,692.00"
+630,2024-12-02 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,127.00",2,"$2,254.00"
+631,2025-02-19 17:49:02,Corsair,Accesorio,Corsair K95 RGB,$150.00,$226.00,5,"$1,130.00"
+632,2025-04-07 17:49:02,Western Digital,Componentes,WD Black SN750 1TB,$200.00,$270.00,4,"$1,080.00"
+633,2024-09-14 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$132.00,4,$528.00
+634,2025-04-02 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,101.00",4,"$4,404.00"
+635,2025-02-19 17:49:02,Dell,Desktop,Dell Inspiron Desktop,$500.00,$554.00,2,"$1,108.00"
+636,2024-09-17 17:49:02,NVIDIA,Componente,NVIDIA Quadro P2200,$450.00,$493.00,5,"$2,465.00"
+637,2024-09-04 17:49:02,Cisco,Red,Cisco RV340,$170.00,$237.00,4,$948.00
+638,2024-10-20 17:49:02,Microsoft,Accesorio,Microsoft LifeCam HD-3000,$70.00,$112.00,5,$560.00
+639,2025-02-26 17:49:02,AMD,Componente,AMD Radeon RX 5600 XT,$300.00,$363.00,4,"$1,452.00"
+640,2024-10-25 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$314.00,1,$314.00
+641,2025-04-18 17:49:02,Seagate,Componentes,Seagate FireCuda 510 SSD 500GB,$170.00,$242.00,1,$242.00
+642,2025-03-14 17:49:02,Netgear,Red,Netgear Nighthawk,$120.00,$194.00,4,$776.00
+643,2024-11-30 17:49:02,Dell,Accesorio,Dell KM117 Wireless,$45.00,$105.00,1,$105.00
+644,2025-03-14 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$207.00,4,$828.00
+645,2024-09-02 17:49:02,Microsoft,Tablet,Surface Go 2,$550.00,$621.00,3,"$1,863.00"
+646,2024-08-24 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$165.00,4,$660.00
+647,2025-01-23 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$843.00,2,"$1,686.00"
+648,2024-09-14 17:49:02,Cisco,Red,Cisco Meraki Go,$220.00,$288.00,3,$864.00
+649,2024-08-12 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$876.00,5,"$4,380.00"
+650,2024-09-28 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$132.00,1,$132.00
+651,2024-07-30 17:49:02,Google,Tablet,Google Pixel Slate,$600.00,$644.00,5,"$3,220.00"
+652,2025-01-23 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$255.00,5,"$1,275.00"
+653,2024-10-01 17:49:02,Cisco,Red,Cisco Meraki Go,$220.00,$297.00,4,"$1,188.00"
+654,2024-08-15 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$863.00,2,"$1,726.00"
+655,2025-04-12 17:49:02,HP,Monitor,HP VH240a,$190.00,$236.00,4,$944.00
+656,2024-07-16 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$282.00,5,"$1,410.00"
+657,2025-05-10 17:49:02,HP,Laptop,HP Pavilion 14,$750.00,$819.00,2,"$1,638.00"
+658,2024-08-30 17:49:02,HP,Scanner,HP ScanJet Pro,$120.00,$164.00,5,$820.00
+659,2025-02-06 17:49:02,Acer,Laptop,Acer Aspire 5,$700.00,$771.00,1,$771.00
+660,2025-06-03 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$657.00,1,$657.00
+661,2025-04-21 17:49:02,HP,Monitor,HP VH240a,$190.00,$264.00,4,"$1,056.00"
+662,2024-10-20 17:49:02,MSI,Laptop,MSI Modern 14,$950.00,"$1,019.00",1,"$1,019.00"
+663,2024-08-22 17:49:02,Microsoft,Tablet,Surface Go 2,$550.00,$611.00,3,"$1,833.00"
+664,2024-12-20 17:49:02,AMD,Componente,AMD Radeon RX 5600 XT,$300.00,$377.00,5,"$1,885.00"
+665,2025-03-15 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$319.00,4,"$1,276.00"
+666,2024-11-11 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$180.00,5,$900.00
+667,2024-10-13 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$277.00,3,$831.00
+668,2025-07-07 17:49:02,LG,Monitor,LG 27UL850,$400.00,$459.00,4,"$1,836.00"
+669,2025-04-13 17:49:02,HP,Desktop,HP EliteDesk 800,$680.00,$755.00,4,"$3,020.00"
+670,2024-11-16 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$127.00,5,$635.00
+671,2024-10-04 17:49:02,AMD,Componente,AMD Radeon RX 5600 XT,$300.00,$379.00,4,"$1,516.00"
+672,2024-11-14 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$703.00,3,"$2,109.00"
+673,2025-04-09 17:49:02,Dell,Accesorio,Dell KM117 Wireless,$45.00,$125.00,5,$625.00
+674,2024-10-21 17:49:02,Western Digital,Componentes,WD Blue 1TB HDD,$60.00,$117.00,3,$351.00
+675,2024-08-27 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$153.00,4,$612.00
+676,2025-04-04 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$134.00,2,$268.00
+677,2024-09-16 17:49:02,D-Link,Red,D-Link COVR-1102,$190.00,$253.00,1,$253.00
+678,2025-04-11 17:49:02,Canon,Impresora,Canon Pixma G6020,$280.00,$331.00,1,$331.00
+679,2025-03-27 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$156.00,4,$624.00
+680,2024-11-14 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3060,$400.00,$460.00,1,$460.00
+681,2025-06-06 17:49:02,AMD,Componente,AMD Radeon RX 6700 XT,$480.00,$540.00,5,"$2,700.00"
+682,2025-05-05 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,117.00",2,"$2,234.00"
+683,2024-10-11 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$179.00,5,$895.00
+684,2025-01-02 17:49:02,ASUS,Monitor,ASUS ProArt PA248Q,$350.00,$420.00,3,"$1,260.00"
+685,2024-07-18 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$178.00,4,$712.00
+686,2025-07-03 17:49:02,Asus,Accesorio,Asus ROG Strix Scope,$110.00,$183.00,1,$183.00
+687,2025-03-30 17:49:02,Linksys,Red,Linksys Velop,$230.00,$278.00,3,$834.00
+688,2025-04-24 17:49:02,ASUS,Desktop,ASUS ExpertCenter,$630.00,$699.00,2,"$1,398.00"
+689,2025-05-25 17:49:02,D-Link,Red,D-Link DIR-850L,$80.00,$157.00,3,$471.00
+690,2024-07-08 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$158.00,2,$316.00
+691,2024-09-21 17:49:02,HP,Monitor,HP VH240a,$190.00,$244.00,2,$488.00
+692,2024-12-20 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$228.00,5,"$1,140.00"
+693,2025-01-15 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$502.00,1,$502.00
+694,2025-04-09 17:49:02,Dell,Monitor,Dell P2419H,$250.00,$302.00,3,$906.00
+695,2025-02-01 17:49:02,Lenovo,Laptop,Lenovo ThinkPad E15,$900.00,$940.00,3,"$2,820.00"
+696,2024-12-20 17:49:02,Razer,Accesorio,Razer BlackWidow,$120.00,$181.00,3,$543.00
+697,2025-04-13 17:49:02,Corsair,Componentes,Corsair Vengeance LPX 16GB,$75.00,$141.00,4,$564.00
+698,2025-06-25 17:49:02,Dell,Laptop,Dell Inspiron 15,$850.00,$909.00,4,"$3,636.00"
+699,2024-09-09 17:49:02,HP,Monitor,HP 24mh,$280.00,$333.00,2,$666.00
+700,2024-11-24 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,113.00",2,"$2,226.00"
+701,2025-02-03 17:49:02,AMD,Componente,AMD Radeon RX 6900 XT,"$1,000.00","$1,071.00",2,"$2,142.00"
+702,2025-04-11 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$478.00,4,"$1,912.00"
+703,2025-06-18 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$189.00,2,$378.00
+704,2025-04-15 17:49:02,Dell,Laptop,Dell Inspiron 15,$850.00,$905.00,2,"$1,810.00"
+705,2025-01-16 17:49:02,ASUS,Tablet,Asus ZenPad 10,$350.00,$422.00,5,"$2,110.00"
+706,2024-07-11 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$307.00,3,$921.00
+707,2025-05-24 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$203.00,2,$406.00
+708,2024-11-02 17:49:02,Lenovo,Desktop,Lenovo ThinkCentre M720,$600.00,$645.00,5,"$3,225.00"
+709,2024-10-02 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$663.00,1,$663.00
+710,2025-01-25 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$668.00,4,"$2,672.00"
+711,2024-09-26 17:49:02,AMD,Componente,AMD Radeon Pro W5700,$650.00,$721.00,3,"$2,163.00"
+712,2025-05-23 17:49:02,ASUS,Monitor,ASUS ProArt PA248Q,$350.00,$404.00,3,"$1,212.00"
+713,2024-08-17 17:49:02,Canon,Impresora,Canon Pixma G6020,$280.00,$344.00,1,$344.00
+714,2025-05-24 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$423.00,1,$423.00
+715,2025-01-30 17:49:02,Seagate,Componentes,Seagate FireCuda 510 SSD 500GB,$170.00,$224.00,3,$672.00
+716,2025-04-15 17:49:02,Acer,Monitor,Acer R240HY,$200.00,$271.00,4,"$1,084.00"
+717,2025-06-28 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$227.00,2,$454.00
+718,2025-04-01 17:49:02,ASUS,Desktop,ASUS ExpertCenter,$630.00,$693.00,5,"$3,465.00"
+719,2024-10-29 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$134.00,1,$134.00
+720,2025-01-10 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$517.00,3,"$1,551.00"
+721,2025-03-29 17:49:02,HP,Monitor,HP 24mh,$280.00,$326.00,2,$652.00
+722,2024-09-24 17:49:02,HP,Laptop,HP Spectre x360,"$1,100.00","$1,176.00",5,"$5,880.00"
+723,2025-01-06 17:49:02,AMD,Componente,AMD Radeon RX 6700 XT,$480.00,$520.00,1,$520.00
+724,2025-04-21 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$243.00,3,$729.00
+725,2025-03-26 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$158.00,1,$158.00
+726,2024-12-17 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$109.00,2,$218.00
+727,2024-08-19 17:49:02,Dell,Tablet,Dell Venue 8 Pro,$200.00,$245.00,2,$490.00
+728,2024-11-23 17:49:02,HP,Monitor,HP 24mh,$280.00,$327.00,4,"$1,308.00"
+729,2024-11-27 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$147.00,2,$294.00
+730,2024-08-03 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$279.00,4,"$1,116.00"
+731,2025-06-08 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$316.00,3,$948.00
+732,2024-12-03 17:49:02,Canon,Scanner,Canon CanoScan LiDE,$100.00,$163.00,1,$163.00
+733,2025-05-25 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$309.00,5,"$1,545.00"
+734,2025-03-26 17:49:02,HP,Laptop,HP Pavilion 14,$750.00,$829.00,1,$829.00
+735,2024-12-07 17:49:02,Dell,Tablet,Dell Venue 8 Pro,$200.00,$257.00,3,$771.00
+736,2024-10-21 17:49:02,Lenovo,Desktop,Lenovo IdeaCentre 3,$560.00,$633.00,1,$633.00
+737,2025-02-03 17:49:02,Linksys,Red,Linksys Velop,$230.00,$293.00,1,$293.00
+738,2024-11-19 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$843.00,2,"$1,686.00"
+739,2025-04-01 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$325.00,2,$650.00
+740,2025-06-01 17:49:02,ASUS,Tablet,Asus ZenPad 10,$350.00,$411.00,2,$822.00
+741,2025-05-12 17:49:02,Acer,Monitor,Acer R240HY,$200.00,$273.00,3,$819.00
+742,2025-04-22 17:49:02,AMD,Componente,AMD Radeon RX 6700 XT,$480.00,$539.00,3,"$1,617.00"
+743,2025-02-05 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$715.00,1,$715.00
+744,2025-06-03 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$174.00,2,$348.00
+745,2025-04-22 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$163.00,5,$815.00
+746,2024-07-20 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$179.00,4,$716.00
+747,2025-03-15 17:49:02,Western Digital,Componentes,WD Blue 1TB HDD,$60.00,$136.00,4,$544.00
+748,2024-09-22 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$722.00,2,"$1,444.00"
+749,2024-08-13 17:49:02,Razer,Accesorio,Razer Kraken Tournament,$130.00,$177.00,1,$177.00
+750,2025-01-20 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$155.00,3,$465.00
+751,2025-06-20 17:49:02,HP,Scanner,HP ScanJet Pro,$120.00,$165.00,4,$660.00
+752,2025-07-06 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$128.00,2,$256.00
+753,2025-05-27 17:49:02,Lenovo,Laptop,Lenovo ThinkPad E15,$900.00,$941.00,3,"$2,823.00"
+754,2025-02-01 17:49:02,HP,Impresora,HP LaserJet Pro MFP,$300.00,$365.00,3,"$1,095.00"
+755,2024-08-26 17:49:02,Dell,Monitor,Dell UltraSharp 24,$300.00,$355.00,5,"$1,775.00"
+756,2025-03-20 17:49:02,ASUS,Tablet,Asus ZenPad 10,$350.00,$407.00,5,"$2,035.00"
+757,2025-02-11 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$658.00,2,"$1,316.00"
+758,2024-09-03 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$470.00,1,$470.00
+759,2024-07-09 17:49:02,HP,Scanner,HP ScanJet Pro,$120.00,$190.00,2,$380.00
+760,2024-08-22 17:49:02,Seagate,Componentes,Seagate Barracuda 2TB HDD,$80.00,$148.00,1,$148.00
+761,2024-11-02 17:49:02,HP,Desktop,HP EliteDesk 800,$680.00,$754.00,3,"$2,262.00"
+762,2024-10-14 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$155.00,1,$155.00
+763,2025-07-03 17:49:02,HyperX,Accesorio,HyperX Cloud II,$100.00,$147.00,2,$294.00
+764,2024-10-23 17:49:02,Dell,Monitor,Dell UltraSharp 24,$300.00,$341.00,3,"$1,023.00"
+765,2025-04-15 17:49:02,Ricoh,Impresora,Ricoh SP C250DN,$180.00,$220.00,4,$880.00
+766,2025-04-30 17:49:02,Dell,Desktop,Dell Inspiron Desktop,$500.00,$575.00,5,"$2,875.00"
+767,2024-08-02 17:49:02,Ricoh,Impresora,Ricoh SP C250DN,$180.00,$258.00,1,$258.00
+768,2025-07-04 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$497.00,5,"$2,485.00"
+769,2024-10-16 17:49:02,Seagate,Componentes,Seagate Barracuda 2TB HDD,$80.00,$129.00,4,$516.00
+770,2025-02-04 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$135.00,4,$540.00
+771,2024-09-25 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$141.00,2,$282.00
+772,2024-07-14 17:49:02,Dell,Accesorio,Dell KM117 Wireless,$45.00,$97.00,1,$97.00
+773,2025-06-29 17:49:02,Apple,Laptop,MacBook Air,"$1,200.00","$1,272.00",1,"$1,272.00"
+774,2025-03-11 17:49:02,Apple,Laptop,MacBook Air,"$1,200.00","$1,275.00",3,"$3,825.00"
+775,2024-12-27 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$317.00,4,"$1,268.00"
+776,2025-05-28 17:49:02,HP,Laptop,HP Spectre x360,"$1,100.00","$1,149.00",4,"$4,596.00"
+777,2024-09-28 17:49:02,D-Link,Red,D-Link COVR-1102,$190.00,$254.00,5,"$1,270.00"
+778,2025-05-11 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$741.00,3,"$2,223.00"
+779,2024-09-05 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$326.00,3,$978.00
+780,2024-07-22 17:49:02,Asus,Accesorio,Asus ROG Strix Scope,$110.00,$190.00,2,$380.00
+781,2025-06-01 17:49:02,Epson,Scanner,Epson Perfection V39,$90.00,$148.00,1,$148.00
+782,2024-07-30 17:49:02,Apple,Desktop,iMac 21.5 pulgadas,"$1,100.00","$1,176.00",4,"$4,704.00"
+783,2025-04-18 17:49:02,Lenovo,Laptop,Lenovo Yoga 7i,$980.00,"$1,031.00",1,"$1,031.00"
+784,2025-01-09 17:49:02,Canon,Impresora,Canon Pixma G6020,$280.00,$343.00,1,$343.00
+785,2024-08-12 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$845.00,5,"$4,225.00"
+786,2025-04-22 17:49:02,Apple,Tablet,iPad Pro 11,$800.00,$864.00,4,"$3,456.00"
+787,2025-05-06 17:49:02,Dell,Desktop,Dell Inspiron Desktop,$500.00,$547.00,2,"$1,094.00"
+788,2025-04-28 17:49:02,Netgear,Red,Netgear Nighthawk,$120.00,$178.00,3,$534.00
+789,2024-11-19 17:49:02,ASUS,Desktop,ASUS ExpertCenter,$630.00,$692.00,3,"$2,076.00"
+790,2024-10-02 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$706.00,1,$706.00
+791,2025-04-30 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$147.00,1,$147.00
+792,2025-05-19 17:49:02,Google,Tablet,Google Pixel Slate,$600.00,$649.00,2,"$1,298.00"
+793,2024-12-24 17:49:02,HP,Monitor,HP VH240a,$190.00,$265.00,2,$530.00
+794,2024-08-29 17:49:02,HP,Laptop,HP Spectre x360,"$1,100.00","$1,173.00",5,"$5,865.00"
+795,2024-09-16 17:49:02,Acer,Laptop,Acer Aspire 5,$700.00,$768.00,1,$768.00
+796,2024-12-21 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,093.00",5,"$5,465.00"
+797,2024-11-05 17:49:02,Lenovo,Laptop,Lenovo Yoga 7i,$980.00,"$1,056.00",1,"$1,056.00"
+798,2025-02-03 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$258.00,4,"$1,032.00"
+799,2025-03-21 17:49:02,Microsoft,Tablet,Surface Go 2,$550.00,$629.00,3,"$1,887.00"
+800,2025-04-22 17:49:02,Intel,Componentes,Intel Optane Memory 32GB,$130.00,$173.00,1,$173.00
+801,2025-05-14 17:49:02,Asus,Accesorio,Asus ROG Strix Scope,$110.00,$164.00,2,$328.00
+802,2025-02-02 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$193.00,1,$193.00
+803,2024-09-04 17:49:02,D-Link,Red,D-Link COVR-1102,$190.00,$238.00,1,$238.00
+804,2025-06-14 17:49:02,Kingston,Componentes,Kingston A2000 SSD 500GB,$90.00,$151.00,3,$453.00
+805,2024-07-18 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$290.00,4,"$1,160.00"
+806,2024-09-22 17:49:02,Dell,Tablet,Dell Venue 8 Pro,$200.00,$258.00,5,"$1,290.00"
+807,2025-05-04 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$405.00,5,"$2,025.00"
+808,2025-01-01 17:49:02,Corsair,Accesorio,Corsair K95 RGB,$150.00,$201.00,3,$603.00
+809,2025-05-23 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$278.00,1,$278.00
+810,2025-06-22 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$859.00,5,"$4,295.00"
+811,2025-05-10 17:49:02,Canon,Impresora,Canon Pixma G6020,$280.00,$354.00,1,$354.00
+812,2024-07-26 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$861.00,4,"$3,444.00"
+813,2024-09-09 17:49:02,Dell,Desktop,Dell Inspiron Desktop,$500.00,$567.00,5,"$2,835.00"
+814,2024-09-23 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$679.00,3,"$2,037.00"
+815,2024-09-01 17:49:02,Apple,Desktop,iMac 21.5 pulgadas,"$1,100.00","$1,166.00",3,"$3,498.00"
+816,2024-11-23 17:49:02,Western Digital,Componentes,WD Black SN750 1TB,$200.00,$272.00,5,"$1,360.00"
+817,2025-06-17 17:49:02,HP,Desktop,HP ProDesk 400,$540.00,$584.00,1,$584.00
+818,2024-10-16 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$115.00,4,$460.00
+819,2024-11-05 17:49:02,Acer,Desktop,Acer Veriton X,$550.00,$621.00,1,$621.00
+820,2024-09-17 17:49:02,Netgear,Red,Netgear Orbi,$250.00,$326.00,1,$326.00
+821,2025-06-13 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$153.00,4,$612.00
+822,2025-07-06 17:49:02,Logitech,Accesorio,Logitech Webcam C920,$80.00,$124.00,1,$124.00
+823,2024-11-11 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$652.00,5,"$3,260.00"
+824,2025-03-13 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$847.00,5,"$4,235.00"
+825,2024-11-09 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$103.00,3,$309.00
+826,2025-04-07 17:49:02,Cisco,Red,Cisco RV340,$170.00,$229.00,3,$687.00
+827,2025-05-13 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$671.00,5,"$3,355.00"
+828,2024-07-11 17:49:02,Samsung,Tablet,Samsung Galaxy Tab S7,$650.00,$709.00,4,"$2,836.00"
+829,2024-11-08 17:49:02,Samsung,Componentes,Samsung 970 EVO SSD 1TB,$150.00,$198.00,5,$990.00
+830,2024-07-07 17:49:02,AMD,Componente,AMD Radeon RX 6700 XT,$480.00,$557.00,5,"$2,785.00"
+831,2024-07-25 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$271.00,1,$271.00
+832,2025-04-10 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$364.00,1,$364.00
+833,2025-05-10 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$179.00,3,$537.00
+834,2025-07-03 17:49:02,Huawei,Tablet,Huawei MatePad T10,$250.00,$317.00,2,$634.00
+835,2025-03-22 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$226.00,2,$452.00
+836,2025-01-20 17:49:02,Epson,Scanner,Epson Perfection V39,$90.00,$133.00,1,$133.00
+837,2025-01-14 17:49:02,Corsair,Componentes,Corsair Vengeance LPX 16GB,$75.00,$115.00,2,$230.00
+838,2025-06-29 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$424.00,4,"$1,696.00"
+839,2025-01-30 17:49:02,Razer,Accesorio,Razer Kraken Tournament,$130.00,$203.00,4,$812.00
+840,2024-12-20 17:49:02,Intel,Componentes,Intel Optane Memory 32GB,$130.00,$176.00,3,$528.00
+841,2025-03-03 17:49:02,HP,Accesorio,HP Wireless Keyboard,$40.00,$109.00,2,$218.00
+842,2024-12-03 17:49:02,Apple,Tablet,iPad Pro 11,$800.00,$850.00,1,$850.00
+843,2024-11-23 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$188.00,5,$940.00
+844,2024-12-05 17:49:02,Lenovo,Desktop,Lenovo IdeaCentre 3,$560.00,$613.00,2,"$1,226.00"
+845,2025-02-03 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$275.00,5,"$1,375.00"
+846,2024-12-11 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$520.00,5,"$2,600.00"
+847,2025-04-13 17:49:02,Dell,Accesorio,Dell KM117 Wireless,$45.00,$114.00,3,$342.00
+848,2024-12-28 17:49:02,Ricoh,Impresora,Ricoh SP C250DN,$180.00,$257.00,2,$514.00
+849,2025-05-21 17:49:02,Razer,Accesorio,Razer DeathAdder V2,$70.00,$140.00,1,$140.00
+850,2025-03-16 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$141.00,2,$282.00
+851,2024-08-14 17:49:02,Logitech,Accesorio,Logitech G Pro X,$120.00,$166.00,1,$166.00
+852,2024-12-18 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$304.00,2,$608.00
+853,2025-04-06 17:49:02,HP,Monitor,HP 24mh,$280.00,$327.00,2,$654.00
+854,2025-06-11 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$192.00,5,$960.00
+855,2024-09-08 17:49:02,Dell,Monitor,Dell UltraSharp 24,$300.00,$342.00,2,$684.00
+856,2024-11-30 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$181.00,1,$181.00
+857,2025-04-04 17:49:02,Microsoft,Accesorio,Microsoft Sculpt Ergonomic,$130.00,$174.00,4,$696.00
+858,2024-10-06 17:49:02,Canon,Scanner,Canon CanoScan LiDE,$100.00,$161.00,1,$161.00
+859,2024-09-06 17:49:02,Lenovo,Desktop,Lenovo IdeaCentre 3,$560.00,$603.00,3,"$1,809.00"
+860,2025-04-17 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$214.00,2,$428.00
+861,2024-08-10 17:49:02,Lenovo,Desktop,Lenovo IdeaCentre 3,$560.00,$611.00,4,"$2,444.00"
+862,2024-11-17 17:49:02,Netgear,Red,Netgear Nighthawk,$120.00,$182.00,3,$546.00
+863,2024-09-14 17:49:02,HyperX,Accesorio,HyperX Cloud II,$100.00,$173.00,1,$173.00
+864,2025-03-04 17:49:02,AMD,Componente,AMD Radeon RX 6700 XT,$480.00,$539.00,5,"$2,695.00"
+865,2025-04-20 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$166.00,2,$332.00
+866,2025-06-14 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$762.00,1,$762.00
+867,2025-01-15 17:49:02,Razer,Accesorio,Razer Kraken Tournament,$130.00,$208.00,5,"$1,040.00"
+868,2024-10-27 17:49:02,Linksys,Red,Linksys Velop,$230.00,$304.00,4,"$1,216.00"
+869,2024-07-09 17:49:02,Asus,Accesorio,Asus ROG Strix Scope,$110.00,$183.00,1,$183.00
+870,2024-08-14 17:49:02,AMD,Componente,AMD Radeon Pro W5700,$650.00,$728.00,4,"$2,912.00"
+871,2025-01-30 17:49:02,Lenovo,Laptop,Lenovo Yoga 7i,$980.00,"$1,054.00",4,"$4,216.00"
+872,2024-08-05 17:49:02,HP,Monitor,HP 24mh,$280.00,$355.00,2,$710.00
+873,2025-06-11 17:49:02,D-Link,Red,D-Link COVR-1102,$190.00,$246.00,4,$984.00
+874,2024-07-28 17:49:02,Dell,Monitor,Dell UltraSharp 24,$300.00,$353.00,1,$353.00
+875,2025-06-01 17:49:02,Crucial,Componentes,Crucial MX500 SSD 1TB,$110.00,$159.00,4,$636.00
+876,2025-02-02 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3080,$800.00,$844.00,2,"$1,688.00"
+877,2025-02-21 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$196.00,4,$784.00
+878,2025-05-06 17:49:02,Western Digital,Componentes,WD Blue 1TB HDD,$60.00,$116.00,3,$348.00
+879,2025-04-13 17:49:02,HP,Monitor,HP VH240a,$190.00,$238.00,1,$238.00
+880,2024-09-04 17:49:02,Asus,Accesorio,Asus ROG Strix Scope,$110.00,$176.00,2,$352.00
+881,2024-12-20 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$242.00,4,$968.00
+882,2025-05-25 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$169.00,5,$845.00
+883,2024-09-04 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$415.00,1,$415.00
+884,2025-04-28 17:49:02,D-Link,Red,D-Link COVR-1102,$190.00,$262.00,1,$262.00
+885,2024-11-11 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$463.00,3,"$1,389.00"
+886,2024-08-03 17:49:02,Acer,Desktop,Acer Veriton X,$550.00,$614.00,5,"$3,070.00"
+887,2025-02-05 17:49:02,Dell,Monitor,Dell P2419H,$250.00,$319.00,3,$957.00
+888,2025-06-19 17:49:02,Apple,Desktop,iMac 21.5 pulgadas,"$1,100.00","$1,141.00",1,"$1,141.00"
+889,2024-10-15 17:49:02,Acer,Monitor,Acer R240HY,$200.00,$278.00,1,$278.00
+890,2024-08-02 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$308.00,3,$924.00
+891,2024-11-17 17:49:02,Cisco,Red,Cisco RV340,$170.00,$240.00,2,$480.00
+892,2025-05-20 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$250.00,3,$750.00
+893,2025-03-31 17:49:02,Lenovo,Tablet,Lenovo Tab M10,$300.00,$357.00,4,"$1,428.00"
+894,2024-08-01 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$694.00,1,$694.00
+895,2024-10-30 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$261.00,3,$783.00
+896,2025-06-16 17:49:02,TP-Link,Red,TP-Link Archer C7,$60.00,$101.00,1,$101.00
+897,2025-07-04 17:49:02,Apple,Desktop,iMac 21.5 pulgadas,"$1,100.00","$1,164.00",4,"$4,656.00"
+898,2025-05-19 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$858.00,1,$858.00
+899,2024-11-24 17:49:02,Corsair,Accesorio,Corsair Scimitar,$80.00,$137.00,2,$274.00
+900,2025-05-21 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$161.00,2,$322.00
+901,2024-09-26 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$205.00,4,$820.00
+902,2025-01-28 17:49:02,Apple,Tablet,iPad Pro 11,$800.00,$870.00,4,"$3,480.00"
+903,2025-03-18 17:49:02,Samsung,Tablet,Samsung Galaxy Tab S7,$650.00,$721.00,5,"$3,605.00"
+904,2025-01-13 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$223.00,4,$892.00
+905,2025-04-09 17:49:02,ASUS,Tablet,Asus ZenPad 10,$350.00,$411.00,3,"$1,233.00"
+906,2024-11-08 17:49:02,Razer,Accesorio,Razer DeathAdder V2,$70.00,$141.00,1,$141.00
+907,2024-10-18 17:49:02,Intel,Componentes,Intel Optane Memory 32GB,$130.00,$210.00,4,$840.00
+908,2024-07-12 17:49:02,Intel,Componentes,Intel Optane Memory 32GB,$130.00,$173.00,1,$173.00
+909,2025-04-03 17:49:02,MSI,Laptop,MSI Modern 14,$950.00,"$1,024.00",5,"$5,120.00"
+910,2024-12-15 17:49:02,Corsair,Accesorio,Corsair K95 RGB,$150.00,$215.00,1,$215.00
+911,2025-06-22 17:49:02,Dell,Monitor,Dell P2419H,$250.00,$290.00,3,$870.00
+912,2024-11-26 17:49:02,ASUS,Desktop,ASUS ExpertCenter,$630.00,$688.00,1,$688.00
+913,2024-08-04 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$513.00,4,"$2,052.00"
+914,2025-04-20 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$170.00,5,$850.00
+915,2025-06-19 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$771.00,5,"$3,855.00"
+916,2025-01-10 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$457.00,5,"$2,285.00"
+917,2025-02-01 17:49:02,Microsoft,Accesorio,Microsoft LifeCam HD-3000,$70.00,$144.00,3,$432.00
+918,2024-08-16 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$263.00,2,$526.00
+919,2024-07-31 17:49:02,Seagate,Componentes,Seagate Barracuda 2TB HDD,$80.00,$152.00,3,$456.00
+920,2024-08-27 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$130.00,4,$520.00
+921,2025-05-16 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$516.00,1,$516.00
+922,2025-03-06 17:49:02,HP,Monitor,HP VH240a,$190.00,$265.00,3,$795.00
+923,2024-07-09 17:49:02,HP,Laptop,HP Spectre x360,"$1,100.00","$1,179.00",5,"$5,895.00"
+924,2025-01-31 17:49:02,NVIDIA,Componente,NVIDIA Quadro P2200,$450.00,$492.00,4,"$1,968.00"
+925,2024-12-16 17:49:02,Seagate,Componentes,Seagate FireCuda 510 SSD 500GB,$170.00,$223.00,4,$892.00
+926,2024-11-12 17:49:02,Razer,Accesorio,Razer BlackWidow,$120.00,$197.00,4,$788.00
+927,2025-04-14 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$162.00,5,$810.00
+928,2025-01-26 17:49:02,MSI,Laptop,MSI Modern 14,$950.00,$993.00,5,"$4,965.00"
+929,2025-04-16 17:49:02,Cisco,Red,Cisco RV340,$170.00,$218.00,1,$218.00
+930,2024-09-13 17:49:02,Dell,Monitor,Dell P2419H,$250.00,$316.00,2,$632.00
+931,2025-05-01 17:49:02,AMD,Componente,AMD Radeon RX 6900 XT,"$1,000.00","$1,077.00",1,"$1,077.00"
+932,2025-02-17 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$150.00,5,$750.00
+933,2024-10-08 17:49:02,Microsoft,Accesorio,Microsoft LifeCam HD-3000,$70.00,$124.00,4,$496.00
+934,2024-12-03 17:49:02,MSI,Desktop,MSI Cubi 5,$620.00,$691.00,5,"$3,455.00"
+935,2025-05-06 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$217.00,2,$434.00
+936,2024-08-12 17:49:02,Dell,Monitor,Dell UltraSharp 24,$300.00,$360.00,5,"$1,800.00"
+937,2025-06-17 17:49:02,Logitech,Accesorio,Logitech G Pro X,$120.00,$196.00,4,$784.00
+938,2025-02-17 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$152.00,1,$152.00
+939,2024-12-06 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$418.00,3,"$1,254.00"
+940,2025-03-14 17:49:02,HP,Tablet,HP Chromebook x2,$400.00,$454.00,5,"$2,270.00"
+941,2025-07-06 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$287.00,5,"$1,435.00"
+942,2025-05-23 17:49:02,Seagate,Componentes,Seagate FireCuda 510 SSD 500GB,$170.00,$211.00,1,$211.00
+943,2025-05-10 17:49:02,Samsung,Componentes,Samsung 970 EVO SSD 1TB,$150.00,$192.00,1,$192.00
+944,2024-12-27 17:49:02,NVIDIA,Componente,NVIDIA Quadro P2200,$450.00,$529.00,4,"$2,116.00"
+945,2025-02-21 17:49:02,Brother,Scanner,Brother DS-640,$110.00,$161.00,5,$805.00
+946,2024-09-15 17:49:02,Asus,Accesorio,Asus ROG Strix Scope,$110.00,$188.00,2,$376.00
+947,2024-11-18 17:49:02,Corsair,Accesorio,Corsair K95 RGB,$150.00,$203.00,5,"$1,015.00"
+948,2025-02-12 17:49:02,Apple,Tablet,iPad Pro 11,$800.00,$871.00,1,$871.00
+949,2025-04-08 17:49:02,Logitech,Accesorio,Logitech MX Master 3,$100.00,$142.00,2,$284.00
+950,2024-07-27 17:49:02,HP,Accesorio,HP Wireless Keyboard,$40.00,$99.00,5,$495.00
+951,2024-10-13 17:49:02,Corsair,Accesorio,Corsair Scimitar,$80.00,$130.00,5,$650.00
+952,2024-08-19 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$145.00,5,$725.00
+953,2024-09-17 17:49:02,BenQ,Monitor,BenQ GW2480,$210.00,$269.00,1,$269.00
+954,2025-05-09 17:49:02,Corsair,Accesorio,Corsair K95 RGB,$150.00,$209.00,3,$627.00
+955,2024-10-09 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$864.00,1,$864.00
+956,2024-12-18 17:49:02,Brother,Impresora,Brother HL-L2350DW,$200.00,$267.00,4,"$1,068.00"
+957,2025-05-01 17:49:02,AMD,Componente,AMD Radeon RX 6900 XT,"$1,000.00","$1,062.00",5,"$5,310.00"
+958,2025-07-07 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$114.00,4,$456.00
+959,2024-12-31 17:49:02,HP,Accesorio,HP Wireless Keyboard,$40.00,$110.00,4,$440.00
+960,2024-10-11 17:49:02,Acer,Monitor,Acer R240HY,$200.00,$246.00,5,"$1,230.00"
+961,2024-09-17 17:49:02,LG,Monitor,LG 27UL850,$400.00,$464.00,3,"$1,392.00"
+962,2025-06-04 17:49:02,Western Digital,Componentes,WD Blue 1TB HDD,$60.00,$135.00,1,$135.00
+963,2025-06-18 17:49:02,HP,Monitor,HP 24mh,$280.00,$356.00,4,"$1,424.00"
+964,2025-03-06 17:49:02,AMD,Componente,AMD Radeon RX 6800,$700.00,$753.00,3,"$2,259.00"
+965,2024-10-18 17:49:02,Dell,Accesorio,Dell UltraSharp Webcam,$85.00,$132.00,5,$660.00
+966,2025-06-22 17:49:02,Corsair,Accesorio,Corsair Scimitar,$80.00,$130.00,5,$650.00
+967,2025-04-24 17:49:02,Acer,Monitor,Acer R240HY,$200.00,$251.00,5,"$1,255.00"
+968,2025-04-13 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$168.00,4,$672.00
+969,2024-09-19 17:49:02,Samsung,Impresora,Samsung Xpress M2020W,$150.00,$208.00,5,"$1,040.00"
+970,2025-02-19 17:49:02,Samsung,Componentes,Samsung 970 EVO SSD 1TB,$150.00,$204.00,1,$204.00
+971,2025-03-18 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$406.00,4,"$1,624.00"
+972,2025-01-02 17:49:02,Lenovo,Accesorio,Lenovo Preferred Pro,$50.00,$100.00,2,$200.00
+973,2024-10-17 17:49:02,HP,Desktop,HP EliteDesk 800,$680.00,$740.00,3,"$2,220.00"
+974,2024-08-02 17:49:02,Logitech,Accesorio,Logitech G502,$90.00,$164.00,5,$820.00
+975,2024-12-09 17:49:02,NVIDIA,Componente,NVIDIA GeForce GTX 1660 Super,$250.00,$318.00,5,"$1,590.00"
+976,2024-10-24 17:49:02,Corsair,Accesorio,Corsair HS60,$90.00,$158.00,5,$790.00
+977,2024-09-04 17:49:02,HP,Monitor,HP VH240a,$190.00,$234.00,5,"$1,170.00"
+978,2025-01-09 17:49:02,ASUS,Tablet,Asus ZenPad 10,$350.00,$411.00,3,"$1,233.00"
+979,2025-06-14 17:49:02,Lenovo,Monitor,Lenovo ThinkVision T24i-10,$230.00,$282.00,3,$846.00
+980,2024-08-11 17:49:02,NVIDIA,Componente,NVIDIA GeForce RTX 3070,$600.00,$652.00,1,$652.00
+981,2024-07-14 17:49:02,Dell,Accesorio,Dell KM117 Wireless,$45.00,$87.00,3,$261.00
+982,2024-08-05 17:49:02,Western Digital,Componentes,WD Black SN750 1TB,$200.00,$259.00,1,$259.00
+983,2025-05-30 17:49:02,Amazon,Tablet,Fire HD 10,$150.00,$190.00,4,$760.00
+984,2025-06-21 17:49:02,Dell,Monitor,Dell P2419H,$250.00,$319.00,1,$319.00
+985,2025-03-06 17:49:02,Linksys,Red,Linksys EA7500,$100.00,$151.00,2,$302.00
+986,2025-02-17 17:49:02,Epson,Impresora,Epson EcoTank ET-4760,$350.00,$411.00,1,$411.00
+987,2025-05-26 17:49:02,HyperX,Accesorio,HyperX Cloud II,$100.00,$175.00,5,$875.00
+988,2024-11-21 17:49:02,Dell,Laptop,Dell XPS 13,"$1,050.00","$1,099.00",3,"$3,297.00"
+989,2024-10-30 17:49:02,Corsair,Componentes,Corsair Vengeance LPX 16GB,$75.00,$145.00,3,$435.00
+990,2025-01-17 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$725.00,1,$725.00
+991,2024-12-17 17:49:02,HP,Desktop,HP ProDesk 400,$540.00,$602.00,3,"$1,806.00"
+992,2025-07-07 17:49:02,SteelSeries,Accesorio,SteelSeries Arctis 7,$150.00,$198.00,4,$792.00
+993,2024-08-31 17:49:02,ASUS,Laptop,ASUS VivoBook 15,$800.00,$866.00,1,$866.00
+994,2025-03-27 17:49:02,AMD,Componente,AMD Radeon RX 6900 XT,"$1,000.00","$1,045.00",2,"$2,090.00"
+995,2025-05-11 17:49:02,AMD,Componente,AMD Radeon RX 6900 XT,"$1,000.00","$1,073.00",1,"$1,073.00"
+996,2025-04-10 17:49:02,Samsung,Componentes,Samsung 980 PRO SSD 1TB,$180.00,$253.00,3,$759.00
+997,2025-03-31 17:49:02,Acer,Desktop,Acer Veriton X,$550.00,$610.00,1,$610.00
+998,2025-01-13 17:49:02,Dell,Desktop,Dell OptiPlex 7070,$650.00,$716.00,5,"$3,580.00"
+999,2024-09-27 17:49:02,Apple,Laptop,MacBook Air,"$1,200.00","$1,256.00",4,"$5,024.00"
+1000,2025-05-12 17:49:02,Samsung,Monitor,Samsung Odyssey G7,$450.00,$498.00,1,$498.00
