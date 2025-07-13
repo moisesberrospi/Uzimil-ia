@@ -3,7 +3,7 @@ import type { NextRequest } from 'next/server';
 
 export async function GET(request: NextRequest) {
   // recrea la URL de tu API remota usando los mismos parámetros
-  const url = `https://agentuzimilia-512561803635.us-west4.run.app/agent?` +
+  const url = `@url del agente en cloud run?` +
     new URL(request.url).searchParams.toString();
 
   // forward
