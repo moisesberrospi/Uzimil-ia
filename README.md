@@ -20,36 +20,6 @@ Uzimil-ia es una plataforma de análisis de datos comerciales que integra un bac
 - Node.js 18+
 - npm o yarn
 
-## Instalación
-
-### Backend
-1. Ve a la carpeta del backend:
-   ```bash
-   cd Backend_uzimilia
-   ```
-2. Instala las dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Ejecuta la API:
-   ```bash
-   python app.py
-   ```
-
-### Frontend
-1. Ve a la carpeta del frontend:
-   ```bash
-   cd Frontend_uzimilia
-   ```
-2. Instala las dependencias:
-   ```bash
-   npm install
-   ```
-3. Inicia la aplicación:
-   ```bash
-   npm run dev
-   ```
-
 ## Notebooks
 
 En la carpeta `Jupyter Notebook de carga` encontrarás notebooks para cargar y procesar datos en Elasticsearch.
